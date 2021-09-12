@@ -10,7 +10,7 @@ Annexer:
 	Ex faire l'annexe des tests / Feuille annexe
 	Faire l'annexe ou boutton "joindre" dans les emails
 
-S'arrgoer:
+S'arroger:
 	Syn S'approprier qqch (qualité, pouvoir, etc.) sans y avoir droit
 	Def S'attribuer (un droit, une qualité) sans y avoir droit.
 
