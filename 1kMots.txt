@@ -36,6 +36,7 @@ Châtier:
 	Def Infliger une peine à (qqn) pour corriger.
 
 Conférer:
+	Ex Conférer un titre ou un grade à qqn
 	Def Accorder (qqch. à qqn) en vertu du pouvoir qu'on a de le faire.
 
 Se désister:
