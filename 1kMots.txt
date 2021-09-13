@@ -7,6 +7,10 @@ Aliéner:
 	Def Soumettre quelqu'un à des contraintes, lui enlever son libre arbitre
 
 Annexer:
+	Ex État qui annexe un territoire.
+	Def S'approprier qqch
+	
+	(moins important)
 	Ex faire l'annexe des tests / Feuille annexe
 	Faire l'annexe ou boutton "joindre" dans les emails
 
