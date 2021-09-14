@@ -73,6 +73,7 @@ Annexer:
 	Faire l'annexe ou boutton "joindre" dans les emails
 
 S'arroger:
+	Ex  Il s'est arrogé le droit de traverser mon jardin pour atteindre la rue.
 	Syn S'approprier qqch (qualité, pouvoir, etc.) sans y avoir droit
 	Def S'attribuer (un droit, une qualité) sans y avoir droit.
 
