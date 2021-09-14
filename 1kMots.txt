@@ -2,7 +2,7 @@
 
 Anarchie: 
 	Ex   pays en anarchie
-	Déf  Désordre résultant d'une absence d'authorité 
+	Déf  Désordre résultant d'une absence d'authorité
 
 Apanage: 
 	Ex l'apanage de la jeunesse 
@@ -15,52 +15,47 @@ Ascendant:
 
 Barbarie: 
 	Ex  La chasse est une barbarie 
-	Déf  Caractère de quelqu'un ou de quelque chose qui est barbare, 	cruel, 		féroce
+	Déf  Barbare / cruel / féroce
 
 Clause: 
-	Ex 
 	Déf  Disposition particulière d'un acte juridique
 	Syn Condition 
 
 Coercition: 
-	
 	Déf  Action de contraindre. 
 	Syn Contrainte, pression 
 
 Démagogie: 
-	
-	Déf Action de flatter les aspirations à la facilité et les passions des 	masses populaires pour obtenir ou conserver le pouvoir ou pour 	accroître sa popularité.
+	Déf Action de flatter les aspirations à la facilité et les passions des masses populaires pour 
+	    obtenir ou conserver le pouvoir ou pour accroître sa popularité.
 
 Despote: 
-	
 	Déf Chef d'État qui s'arroge un pouvoir absolu, arbitraire, sans contrôle. 
 	Syn Tyran; Dictateur
 
-Egide: 
-	
-	Déf  "sous l'égide de Qqn = être sous sa protection 
+Egide:
+	Déf  "sous l'égide de qqn" = être sous sa protection 
 
 Esclavage: 
-
 	Déf: 
-		1.Fait pour un groupe social d'être soumis à un régime économique et politique qui le prive de toute liberté, le contraint à exercer les fonctions économiques les plus 				pénibles sans autre contrepartie que le logement et la	nourriture. 
+		1. Fait pour un groupe social d'être soumis à un régime économique et politique
+		   qui le prive de toute liberté, le contraint à exercer les fonctions économiques 
+		   les plus pénibles sans autre contrepartie que le logement et la nourriture. 
 
-		2.État, condition d'esclave.
+		2. État, condition d'esclave.
 
 Exaction: 
-	
 	Déf  Action d'exiger ce qui n'est pas dû ou plus qu'il n'est dû.
 	Syn  Extorsion ;  Détournement 
 
 Garant(e):  
-
 	Déf : 
+		Qui est caution d'une autre personne, qui répond de sa dette
+		Qui, par sa personne, ses qualités propres, atteste de la réalité, de l'authenticité de quelque chose
 
-		1. Qui est caution d'une autre personne, qui répond de sa 			dette
-
-		2.Qui, par sa personne, ses qualités propres, atteste de la 			réalité, de l'authenticité de quelque chose
 
 --- Semaine du 06/13 -----------------------------
+
 Abroger:
 	Ex abroger une loi
 	Def Déclarer nul (ce qui avait été établi, institué).
@@ -154,3 +149,6 @@ Impliquer:
 	Def:
 		Engager (dans une affaire fâcheuse), mettre en cause (dans une accusation).
 		Comporter de façon implicite, entraîner comme conséquence.
+
+--- Semaine du 06/20 -----------------------------
+
