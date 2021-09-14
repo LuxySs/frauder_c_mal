@@ -151,5 +151,95 @@ Impliquer:
 		Engager (dans une affaire fâcheuse), mettre en cause (dans une accusation).
 		Comporter de façon implicite, entraîner comme conséquence.
 
+Incomber:
+	Ex  Cette révélation incombe à son médecin.
+	Def Être imposé à quelqu'un en tant que charge, peser sur lui, lui revenir, lui appartenir
+		
+Etre investi:
+	Ex  On a investi le président de tous les pouvoirs.
+	Def Mettre solennellement, officiellement quelqu'un en possession de quelque chose (droit, pouvoir, dignité)
+		
+Juguler:
+	Ex  Juguler une maladie.
+	Def Arrêter le développement de (qqch.).
+
+Obtempérer:
+	Ex  Obtempérer à une sommation.
+	Def Obéir à un ordre, se soumettre à une injonction
+
+Opter:
+	Ex  Elle a opté pour des études littéraires.
+	Def Faire un choix (entre deux ou plusieurs choses qu'on ne peut avoir ou faire ensemble).
+
+Prescrire:
+	Ex  Les formes que la loi a prescrites.
+	Def Ordonner ou recommander expressément ; indiquer avec précision (ce qu'on exige, ce qu'on impose).
+
+Prohiber:
+	Syn interdire
+	Def Défendre, interdire par une mesure légale.
+
+Proroger:
+	1.
+		Def Renvoyer à une date ultérieure.
+		Ex  Proroger l'échéance d'un crédit.
+	2.
+		Def Faire durer au-delà de la date d'expiration fixée.
+		Ex  Proroger un passeport.
+
+Proscrire:
+	Def 
+		-Bannir, exiler.    (Histoire)
+		-Interdire formellement (une chose que l'on condamne, l'usage de qqch.). (littéraire)
+
+Se raviser à:
+	Syn	Changer d'opinion. 
+	Def Revenir sur une résolution, une promesse.
+	Ex ATENTION IL MANQUE L'EXEMPLE
+
+En référer à:
+	Ex  Je me réfère au règlement pour savoir si...
+	Def En référer à qqc.Se tourner vers quelque chose, se servir de quelque chose comme appui, repère, inspiration; faire référence à.
+
+Réhabiliter:
+	Ex  Réhabiliter la victime d'une erreur judiciaire.
+	Def Rendre à (qqn) ses droits perdus et l'estime publique.
+
+Relaxer:
+	Def Remettre un accusé jugé non coupable en liberté. 
+
+Répudier:
+	Ex  Répudier ses engagements.
+	Def Rejeter, repousser (un sentiment, une idée, etc.).
+
+Résilier:
+	Ex  Résilier un bail.
+	Def Dissoudre (un contrat) par l'accord des parties ou par la volonté d'un seul.
+
+Révoquer:
+	-Annuler (un acte juridique).
+	-Destituer (un fonctionnaire, un magistrat…).
+
+Saper:
+	Ex Ex Il m'a sapé le moral.
+	Def Attaquer les bases, les principes de (qqch.) pour ruiner progressivement.
+
+Sommer:
+	Ex  Sommer qqn à, de comparaître.
+	Def Mettre (qqn) en demeure (de faire qqch.) dans les formes établies ; avertir par une sommation.
+
+Spolier			
+	Ex  Spolier un orphelin de son héritage.
+    	Def Dépouiller (qqn) par violence, fraude ou abus de pouvoir.
+	
+Subjuguer
+	Ex  L'orateur subjuguait l'auditoire.
+	Def Exercer sur quelqu'un un pouvoir puissant par une qualité, un comportement qui en impose
+	
+Usurper
+	Ex  Usurper une identité.
+	Def S'approprier sans droit, par la violence ou la fraude (un pouvoir, une dignité, un bien).
+
+
 --- Semaine du 20/09 -----------------------------
 
