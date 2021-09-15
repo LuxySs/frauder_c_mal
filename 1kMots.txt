@@ -124,7 +124,7 @@ Dissuader:
 
 S'ériger:
 	syn Établir, créer (sois même car "S'")
-
+	Déf Se donner le rôle, la dignité de...
 évincer:
 	Ex Évincer un concurrent.
 	Def:
