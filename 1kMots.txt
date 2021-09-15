@@ -126,7 +126,7 @@ Dissuader:
 S'ériger:
 	syn Établir, créer (sois même car "S'")
 	Déf Se donner le rôle, la dignité de...
-évincer:
+Évincer:
 	Ex Évincer un concurrent.
 	Def:
 		Empêcher quelqu'un d'accéder à une fonction ou l'en déposséder
@@ -189,15 +189,15 @@ Proroger:
 		Ex  Proroger un passeport.
 
 Proscrire:
-	Def 
+	Def
 		Ex  Proscrire le café de l'alimentation.
 		-Bannir, exiler.    (Histoire)
 		-Interdire formellement (une chose que l'on condamne, l'usage de qqch.). (littéraire)
-		
+
 Se raviser à:
 	Syn	Changer d'opinion. 
 	Def Revenir sur une résolution, une promesse.
-	Ex ATENTION IL MANQUE L'EXEMPLE
+	Ex ATTENTION IL MANQUE L'EXEMPLE
 
 En référer à:
 	Ex  Je me réfère au règlement pour savoir si...
@@ -227,18 +227,19 @@ Saper:
 	Def Attaquer les bases, les principes de (qqch.) pour ruiner progressivement.
 
 Sommer:
+	Syn exiger
 	Ex  Sommer qqn à, de comparaître.
 	Def Mettre (qqn) en demeure (de faire qqch.) dans les formes établies ; avertir par une sommation.
 
-Spolier			
+Spolier:
 	Ex  Spolier un orphelin de son héritage.
     	Def Dépouiller (qqn) par violence, fraude ou abus de pouvoir.
-	
-Subjuguer
+
+Subjuguer:
 	Ex  L'orateur subjuguait l'auditoire.
 	Def Exercer sur quelqu'un un pouvoir puissant par une qualité, un comportement qui en impose
-	
-Usurper
+
+Usurper:
 	Ex  Usurper une identité.
 	Def S'approprier sans droit, par la violence ou la fraude (un pouvoir, une dignité, un bien).
 
