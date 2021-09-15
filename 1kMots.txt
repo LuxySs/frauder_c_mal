@@ -189,9 +189,10 @@ Proroger:
 
 Proscrire:
 	Def 
+		Ex  Proscrire le café de l'alimentation.
 		-Bannir, exiler.    (Histoire)
 		-Interdire formellement (une chose que l'on condamne, l'usage de qqch.). (littéraire)
-
+		
 Se raviser à:
 	Syn	Changer d'opinion. 
 	Def Revenir sur une résolution, une promesse.
