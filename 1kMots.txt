@@ -93,6 +93,7 @@ Brimer:
 
 Cautionner:	
 	Syn Vouch
+	Déf Donner son accord à une action, une idée.
 
 Châtier:
 	Syn Punir
