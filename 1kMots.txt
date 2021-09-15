@@ -136,7 +136,7 @@ Extorquer:
 	Def Obtenir (qqch.) sans le libre consentement du détenteur (par la force, la menace ou la ruse).
 
 Fomenter:
-	Syn suciter			
+	Syn susciter			
 	Ex Fomenter un coup détat
 	Def Entretenir, exciter des actions, des sentiments violents et destructeurs (secrètement)
 
