@@ -10,8 +10,8 @@ Apanage:
 	Syn privilège 
 
 Ascendant: 
-	Ex Mouvement ascendant d'air chaud 
-	Déf Qui va en montant, en progressant 
+	Ex Avoir de l'ascendant sur ses élèves. 
+	Déf Grande influence que l'on exerce sur quelqu'un ; autorité morale : 
 
 Barbarie: 
 	Ex  La chasse est une barbarie 
@@ -49,9 +49,49 @@ Exaction:
 	Syn  Extorsion ;  Détournement 
 
 Garant(e):  
-	Déf : 
-		Qui est caution d'une autre personne, qui répond de sa dette
-		Qui, par sa personne, ses qualités propres, atteste de la réalité, de l'authenticité de quelque chose
+	Déf : 	Qui est caution d'une autre personne, qui répond de sa dette
+		qui, par sa personne, ses qualités propres, atteste de la réalité, de l'authenticité de quelque chose
+
+Génocide: 
+	Déf: Crime contre l'humanité tendant à la destruction totale ou partielle d'un groupe national, ethnique, racial ou religieux 
+
+Hégémonie: 
+	déf:  Domination d'une puissance, d'un pays, d'un groupe social, etc., sur les autres 
+	ex: L'hégémonie des supergrands.
+	Syn: domination; supériorité
+	
+Immunité: 
+	déf: Droit de bénéficier d'une dérogation à la loi commune ; privilège.
+
+Impunité:
+	déf: Fait pour quelqu'un de ne pas risquer d'être puni pour ses fautes
+	Ex: Ses relations lui ont assuré l'impunité pour ses escroqueries.
+
+Joug: 
+	Déf: Dure sujétion, contrainte matérielle ou morale
+	Ex: Subir le joug d'une armée d'occupation.
+	Syn: dépendance - oppression
+	
+Latitude: 
+	déf:  Liberté entière, faculté d'agir à son gré
+	ex: Vous avez toute latitude pour régler la question.
+
+Mandataire: 
+	Déf: Personne qui a reçu mandat ou procuration pour représenter son mandant dans un acte juridique. 
+	Syn: délégué
+
+Monopole:
+	déf: Possession exclusive de quelque chose
+	Syn: exclusivité -privilège
+	
+Notoriété: 
+	Déf: Fait d'être avantageusement connu
+	Syn: renommée ; réputation
+	Ex: César
+
+Novice: 
+	Déf: Qui ne connaît pas le monde, qui est naïf, ignorant, en particulier dans le domaine de l'amour
+	Ex: Il est encore jeune et novice.
 
 
 --- Semaine du 13/09 -----------------------------
