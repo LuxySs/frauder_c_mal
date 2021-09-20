@@ -91,7 +91,34 @@ Notoriété:
 
 Novice: 
 	Déf: Qui ne connaît pas le monde, qui est naïf, ignorant, en particulier dans le domaine de l'amour
-	Ex: Il est encore jeune et novice.
+	Ex: Il est encore jeune et novice. (Lucas) 
+	
+Obligé(e):
+	Déf: Personne à qui on a rendu service, qui est liée par la reconnaissance à quelqu'un
+	Ex: Il est mon obligé en cette affaire.
+
+Opprimé(e): 
+	Déf:Personne opprimée, victime d'un pouvoir arbitraire. 
+	Syn: Exploité, Tyranisé
+
+Ostracisme: 
+	Déf: Action de tenir quelqu'un qui ne plaît pas à l'écart d'un groupe, d'une société, d'une manière discriminatoire et injuste
+	Ex: Être frappé d'ostracisme.
+	Syn: Exclusion; Quarantaine
+
+Potentat: 
+	Déf: Personne disposant d'un pouvoir important en raison de sa richesse et qui en use de façon despotique.
+
+Potentiel: 
+	Déf:  Ensemble des ressources dont quelqu'un, une collectivité, un pays peut disposer
+	Ex: Le potentiel militaire
+	Syn: force - possibilités - puissance
+
+Prérogative: 
+	Déf: Honneur, dignité, droit attaché à certaines fonctions, à certains titres, à certains états
+	Ex: Les prérogatives de l'âge.
+	Syn: avantage - monopole - privilège
+
 
 
 --- Semaine du 13/09 -----------------------------
