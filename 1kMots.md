@@ -1,8 +1,8 @@
 # Table des Matières
 
-[Semaine du 06/09](#Semaine-du-06/09)
-[Semaine du 13/09](#Semaine-du-13/09)
-[Semaine du 20/09](#Semaine-du-20/09)
+1. [Semaine du 06/09](#Semaine-du-06/09)
+2. [Semaine du 13/09](#Semaine-du-13/09)
+3. [Semaine du 20/09](#Semaine-du-20/09)
 
 ## Semaine du 06/09
 
