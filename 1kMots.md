@@ -1,4 +1,10 @@
---- Semaine du 06/09 -----------------------------
+# Table des Matières
+
+[Semaine du 06/09](#Semaine-du-06/09)
+[Semaine du 13/09](#Semaine-du-13/09)
+[Semaine du 20/09](#Semaine-du-20/09)
+
+## Semaine du 06/09
 
 Anarchie: 
 	Ex   pays en anarchie
@@ -120,8 +126,7 @@ Prérogative:
 	Syn: avantage - monopole - privilège
 
 
-
---- Semaine du 13/09 -----------------------------
+## Semaine du 13/09
 
 Abroger:
 	Ex abroger une loi
@@ -311,5 +316,5 @@ Usurper:
 	Def S'approprier sans droit, par la violence ou la fraude (un pouvoir, une dignité, un bien).
 
 
---- Semaine du 20/09 -----------------------------
+## Semaine du 20/09
 
