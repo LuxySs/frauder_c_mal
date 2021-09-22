@@ -17,7 +17,7 @@
 
 ### Ascendant
 - Ex:  Avoir de l'ascendant sur ses élèves. 
-- Def: Grande influence que l'on exerce sur quelqu'un ; autorité morale : 
+- Def: Grande influence que l'on exerce sur quelqu'un ; autorité morale
 
 ### Barbarie
 - Ex:  La chasse est une barbarie 
@@ -129,12 +129,12 @@
 ## Semaine du 13/09
 
 ### Abroger
-- Ex abroger une loi
-- Def Déclarer nul (ce qui avait été établi, institué).
+- Ex:  Abroger une loi
+- Def: Déclarer nul (ce qui avait été établi, institué).
 
 ### Aliéner
-- Ex La société industrielle aliène l'homme.
-- Def Soumettre quelqu'un à des contraintes, lui enlever son libre arbitre
+- Ex:  La société industrielle aliène l'homme.
+- Def: Soumettre quelqu'un à des contraintes, lui enlever son libre arbitre
 
 ### Annexer
 1.
@@ -253,11 +253,11 @@
 
 ### Proroger
 1.
-	Def Renvoyer à une date ultérieure.
-	Ex  Proroger l'échéance d'un crédit.
+	Def: Renvoyer à une date ultérieure.
+	Ex:  Proroger l'échéance d'un crédit.
 2.
-	Def Faire durer au-delà de la date d'expiration fixée.
-	Ex  Proroger un passeport.
+	Def: Faire durer au-delà de la date d'expiration fixée.
+	Ex:  Proroger un passeport.
 
 ### Proscrire
 - Def: 
