@@ -331,9 +331,29 @@
 
 ### Allocution
 - Ex: A la fin du repas, le maire prononça une courte allocution qui fut très  appréciée.
-- Def: petit discours. 
+- Def: Petit discours. 
 
 ### Apologie 
 - Ex: Platon a fait l'apologie de Socrate.
 - Def: Eloge ou défense d'une personne ou d'une idée par un discours écrit ou oral. 
+
+### Assertion
+- Ex: "Je crois qu'en dépit des assertions du gouvernement, les électeurs ont leur opinion sur la hausse du coût de la vie, sur la baisse du pouvoir d'achat."
+- Def: Une affirmation.
+
+### Circonlocution
+- Ex: Il s'est exprimé avec beaucoup de circonlocutions.
+- Def: Tourner autour du pot (s'exprimer avec circonlocutions). 
+
+### Cliché 
+- Ex: La conversation entre les personnages de Flaubert, Boulevard de Pécuchetest un échange de clichés.
+- Def: Banalité, lieu commun que l'on utilise au lieu de prendre la peine de réfléchir.
+
+### Conciliabule
+- Ex: Les petites filles avaient formé des groupes et tenaient des conciliabules dans tous les coins du jardin. 
+- Def: Conversation à voix basse pour se confier des secrets.
+
+### Controverse
+- Ex: La controverse sur le danger des déchets radiocatifs est toujours aussi vive. 
+- Def: Dicussion causée par des interprétations différentes sur un sujet. 
 
