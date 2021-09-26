@@ -326,5 +326,14 @@
 - Def: Humeur agressive qui s'exprime par des paroles aigres.
 
 ### Allégation
--Ex: 
+-Ex: Pourquoi voulez-vous qu'on vous croie sur parole? Il faut prouver vos allégations.
+-Def: Citation que l'on fait à partir d'un texte, ou, plus simplement, affirmation.
+
+### Allocution
+-Ex: A la fin du repas, le maire prononça une courte allocution qui fut très  appréciée.
+-Def: petit discours. 
+
+### Apologie 
+-Ex: Platon a fait l'apologie de Socrate.
+-Def: Eloge ou défense d'une personne ou d'une idée par un discours écrit ou oral. 
 
