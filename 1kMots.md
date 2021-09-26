@@ -380,10 +380,204 @@
 - Ex:  Usurper une identité.
 - Def: S'approprier sans droit, par la violence ou la fraude (un pouvoir, une dignité, un bien).
 
-
 ## Semaine du 20/09
 
+### Art
+1.
+    - Def: Regroupe les oeuvres destinées à toucher les sens/les émotions
+2.
+    - Def: L'ensembles des connaissance dans un domaine particulier
+
+### Atermoiement
+- Def: Délai accordé à un débiteur pour l'exécution de ses engagements
+
+### Comptétence
+- Def: Connaissance approfondie, reconnue, qui donne le droit de juger/décider en certaines matières.
+
+### Déprédation
+- Def: Vol ou pillage accompagné de dégâts
+
+### Dessein
+- Def: Projet de faire quelque chose
+
+### Détracteur
+- Def: Personne qui cherche à rabaisser le mérite, la valeur
+- Syn: Accusateur
+
+### Diversion
+- Def: Manoeuvre visant à détourner l'attention
+
+### Expédient
+- Def: Moyen utilisé pour se tirer d'embarras
+
+### Ferment
+1.
+    - Def: Agent de fermentation (=> germes)
+2.
+    - Def: Ce qui fait naître les passions
+
+### Foyer
+1.
+    - Def: Lieu de réunion ou d'habitation
+2.
+    - Def: Source/centre à l'origine de
+
+### Gageure
+- Def: 
+
+### Incurie
+- Def: Manque d'application, négligence extrême 
+- Syn: Abandon
+
+### Instigateur
+- Def: Personne qui pousse à faire quelque chose
+
+### Marasme
+1.
+    - Def: Ralentissement important de l'activité économique
+2.
+    - Def: Affaiblissement des forces morales
+- Syn: Dépression
+
+### Mécomptes
+- Def:
+
+### Médiation
+- Def: 
+
+### Mobile
+- Def:
+
+### Oisiveté
+- Def:
+
+### Pragmatique
+- Def: Qui a une valeur pratique
+
+### Procédure
+- Def: 
+
+### Processus
+- Def:
+
+### Protagoniste
+1.
+    - Def: Personnage important d'une pièce de théâtre, d'un film, d'un roman
+2.
+    - Def: Personne qui joue le rôle principal dans une affaire/un conflit 
+    - Ex: Les protagonistes d'un conflit.
+
 ## Semaine du 27/09
+
+### Réfection
+- Def: Action de remettre en état, à neuf
+- Syn: Réparer
+
+### Rémission
+1.
+    - Def: Faire grâce
+    - Syn: Pardoner
+2.
+    - Def: Disparition momentanée des symptômes d'une maladie 
+
+### Sinécure
+- Def: Emploi ou fonction bien payés pour un travail faible ou nul.
+- Syn: Chômer
+- Ex: Ce n'est pas une sinécure
+
+### Stratagème
+1.
+    - Def: Ruse de guerre ayant pour objet de tromper l'ennemi
+2.
+    - Def: Combinaison habile mise en œuvre pour obtenir un avantage 
+
+### Stratégie
+- Def: Art de coordonner des actions/forces militaires
+
+### Suspens
+- Def:
+
+### Tergiversation
+- Def: Faire traîner les choses en longueur pour éviter une décision
+
+### Vertu
+- Def:
+
+### Corrosif
+- Def:
+
+### Dilatoire
+- Def: Qui vise à gagner du temps par son caractère vague ou ambigu 
+- Ex: Une réponse dilatoire
+
+### Probatoire
+- Def: Qui cherche à prouver l'existence chez quelqu'un de la compétence, des qualités requises pour une activité ultérieure 
+- Ex: Examen probatoire
+
+### Rédhibitoire
+- Def:
+
+### Réticient
+- Def:
+
+### Achopper ajourner
+- Def:
+
+### Assener
+- Def:
+
+### Démanteler
+- Def:
+
+### Édifier
+- Def:
+
+### Endiguer
+- Def:
+
+### Exaucer
+- Def: Accueillir favorablement une demande, un voeu, y répondre 
+
+### Grever
+- Def: Soumettre quelqu'un, un groupe, un pays à des charges excessives 
+
+### Instaurer
+- Def: Établir un régime, une institution, un état
+- Syn: Fonder
+
+### Louvoyer
+- Def:
+
+### Obvier
+- Def: Prendre les mesures nécessaires pour faire obstacle à quelque chose
+- Syn: Éviter, faire face, pallier
+
+### Pallier
+- Def: Éviter une difficulté en y remédiant plus ou moins bien 
+- Ex: Pallier une difficulté
+- Syn: Éviter, faire face, Pallier
+
+### Perpétrer
+- Def: Commettre un acte criminel 
+- Ex: Perpétrer un crime
+
+### Prémunir
+- Def: Protéger quelqu'un contre un mal
+- Syn: Se protéger 
+
+### Récidiver
+- Def: Commettre de nouveau une infraction
+- Syn: Recommencer, se manifester (de nouveau)
+
+### Refouler
+- Def: 
+
+### Réitérer
+- Def: Faire à nouveau
+- Syn: Refaire, répéter
+
+### Réviser
+- Def: Examiner quelque chose à nouveau, vérifier son fonctionnement 
 
 ## Semaine du 04/10
 
