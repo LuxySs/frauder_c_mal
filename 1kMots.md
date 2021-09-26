@@ -587,7 +587,9 @@
 - Syn: Recommencer, se manifester (de nouveau)
 
 ### Refouler
-- Def: 
+- Def: Repousser qqu ou un groupe, s'interdire un désir ou un sentiment
+- Syn: Repousser, bannir, chasser
+- Ex: Refouler des immigrants à la frontière
 
 ### Réitérer
 - Def: Faire à nouveau
