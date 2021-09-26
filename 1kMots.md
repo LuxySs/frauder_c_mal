@@ -3,6 +3,8 @@
 1. [Semaine du 06/09](#Semaine-du-0609) : Martin
 2. [Semaine du 13/09](#Semaine-du-1309) : Lucas
 3. [Semaine du 20/09](#Semaine-du-2009) : Martin
+4. [Semaine du 27/09](#Semaine-du-2709) : Daniil
+5. [Semaine du 04/10](#Semaine-du-0410) : Noemi
 
 ## Semaine du 06/09
 
@@ -318,6 +320,8 @@
 
 
 ## Semaine du 20/09
+
+## Semaine du 27/09
 
 ## Semaine du 04/10
 
