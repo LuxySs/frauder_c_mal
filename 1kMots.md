@@ -3,7 +3,6 @@
 1. [Semaine du 06/09](#Semaine-du-0609) : Martin
 2. [Semaine du 13/09](#Semaine-du-1309) : Lucas
 3. [Semaine du 20/09](#Semaine-du-2009) : Martin
-4. [Semaine du 04/10](#Semaine-du-0410) : Noemi
 
 ## Semaine du 06/09
 
@@ -357,4 +356,20 @@
 ### Controverse
 - Ex: La controverse sur le danger des déchets radiocatifs est toujours aussi vive. 
 - Def: Dicussion causée par des interprétations différentes sur un sujet. 
+
+### Dénégation
+- Ex: Personne n'a été impressionné par ses dénégations.
+- Def: La négation de faits.
+
+### Diffamation
+- Ex: Ses paroles ont été jugées diffamatoires.
+- Def: Qui portent atteinte à la réputation de quelqu'un.
+
+### Digression
+- Ex: Il s'est perdu en digressions.
+- Def: Un développement hors du sujet.
+
+### Elocution
+- Ex: Certains avocats sont célèbres pour leur éloquence.
+- Def: Art de bien parler, de convaincre ou de toucher par ses discours.
 
