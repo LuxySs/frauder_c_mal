@@ -370,6 +370,33 @@
 - Def: Un développement hors du sujet.
 
 ### Elocution
+- Ex: On aimerait que kes présentateurs de la télévisionaient une élocution parfaite.
+- Def: Manière de s'exprimer oralement.
+
+### Eloquence
 - Ex: Certains avocats sont célèbres pour leur éloquence.
 - Def: Art de bien parler, de convaincre ou de toucher par ses discours.
 
+### Elucubration
+- Ex: Dans "Le médecin malgré lui" les élucubrations de Sganarelle sont tout à fait comiques.
+- Def: Le résultat de réflexions laborieuses qui n'ont pas beaucoup de sens.
+
+### Euphémisme
+- Ex: Pour désigner la mort, on emploie souvent des euphémismes.
+- Def: Expression atténuée d'une réalité pour éviter de choquer ou de blesser. 
+
+### Faconde
+- Ex: La faconde de Cyrano de Bergerac est pour beaucoup dans le succès de la pièce de Rostand. 
+- Def: Grande facilité de parole qui manque un peu de raffinement. 
+
+### Grandiloquence
+- Ex: La grandiloquence est considérée comme une faute de goût.
+- Def: Eloquene qui abuse des grands mots. 
+
+### Imprécation 
+- Ex: Dans Cinna, De Corneille Camille lance des imprécations contre Rome, qu'elle rend responsable la mort de son fiancé.
+- Def: Formule par laquelle on souhaite du malheur à quelqu'un sous l'effet de la colère.
+
+### Incantation
+- Ex: La poésie africaine se présente parfois sous forme d'incantations. 
+- Def: Paroles ou chants destinés à avoir un effet magique. 
