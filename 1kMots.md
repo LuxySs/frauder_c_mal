@@ -319,3 +319,12 @@
 
 ## Semaine du 20/09
 
+## Semaine du 04/10
+
+### Acrimonie
+- Ex: Les échanges verbaux entre parlementaires ne sont pas toujours dépourvus d'acrimonie.
+- Def: Humeur agressive qui s'exprime par des paroles aigres.
+
+### Allégation
+-Ex: 
+
