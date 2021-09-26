@@ -1,6 +1,6 @@
 # Table des Matières
 
-1. [Semaine du 06/09](#Semaine-du-0609) : Martin
+1. [Semaine du 06/09](#Semaine-du-0609) : Martin, Daniil et Anton
 2. [Semaine du 13/09](#Semaine-du-1309) : Lucas
 3. [Semaine du 20/09](#Semaine-du-2009) : Martin
 4. [Semaine du 27/09](#Semaine-du-2709) : Daniil
@@ -127,6 +127,68 @@
 - Ex:  Les prérogatives de l'âge.
 - Syn: Avantage - monopole - privilège
 
+### Rétorsion
+- Def: Répliquer par des procédés similaire à ceux utiliser contre toi
+- Syn: Se venger
+
+### Répression
+- Def: Action de punir
+
+### Satellite
+- Def: Personne qui vit sous la dépendance d'une autre
+
+### Sédition
+- Def: Révolte contre l'autorité
+- Syn: Rébéllion, révolte
+
+### Sévices
+- Def: Mauvais traitements d'une personne sous ton autorité
+- Ex: Agression, viol
+
+### Statut
+- Def: Position dans la société
+
+### Subversion
+- Def: Renversement de l'ordre établit
+- Ex: Boulversement, déstabilisation
+
+### Sujétion
+- Def: Soumission/dépendance à une personne d'autorité
+
+### Suprématie
+- Syn: Domination, supériorité
+
+### Tyrannie
+- Def: Autorité oppresive et violente
+
+### Validité
+- Def: Caractère de ce qui est valide
+
+### Vandalisme
+- Def: Destruction d'objets de valeur
+
+### Arbitraire
+- Def: Qui résulte d'un libre choix et ne répond à aucune logique
+
+### Draconien
+- Def: D'une excessive sévérité
+- Syn: Stricte, sévère
+
+### Formel
+- Def: Qui est formulé avec precision excluant toute incertitude
+
+### Illicite
+- Def: Qui est bannit par la morale ou la loi
+- Syn: Substances illicites => drogues
+
+### Imprérieux
+- Def: Qui commande d'une façon qui n'admet ni résistance ni réplique
+
+### Servile
+- Def: Qui fait preuve d'une soumission excessive
+
+### Tributaire
+- Def: Qui dépend/est soumis à une autorité
 
 ## Semaine du 13/09
 
