@@ -1,10 +1,10 @@
 # Table des Matières
 
-1. [Semaine du 06/09](#Semaine-du-0609) : Martin, Daniil et Anton
-2. [Semaine du 13/09](#Semaine-du-1309) : Lucas
-3. [Semaine du 20/09](#Semaine-du-2009) : Martin
-4. [Semaine du 27/09](#Semaine-du-2709) : Daniil
-5. [Semaine du 04/10](#Semaine-du-0410) : Noemi
+1. [Semaine du 06/09](#Semaine-du-0609) : Anarchie -> Tributaire : Martin, Daniil et Anton
+2. [Semaine du 13/09](#Semaine-du-1309) : Abroger &nbsp;-> Usurper &nbsp;&nbsp;: Lucas
+3. [Semaine du 20/09](#Semaine-du-2009) : Art &nbsp;&nbsp;&nbsp;&nbsp;-> Protagoniste : Daniil et Anton
+4. [Semaine du 27/09](#Semaine-du-2709) : Réfection -> Réviser &nbsp;&nbsp;&nbsp;: Daniil et Anton
+5. [Semaine du 04/10](#Semaine-du-0410) : Acrimonie -> Laconique : Noemi
 
 ## Semaine du 06/09
 
@@ -101,11 +101,11 @@
 - Def: Qui ne connaît pas le monde, qui est naïf, ignorant, en particulier dans le domaine de l'amour
 - Ex:  Il est encore jeune et novice. (Lucas) 
 
-### Obligé(e)
+### Obligé
 - Def: Personne à qui on a rendu service, qui est liée par la reconnaissance à quelqu'un
 - Ex:  Il est mon obligé en cette affaire.
 
-### Opprimé(e)
+### Opprimé
 - Def: Personne opprimée, victime d'un pouvoir arbitraire. 
 - Syn: Exploité, Tyranisé
 
@@ -423,7 +423,7 @@
     - Def: Source/centre à l'origine de
 
 ### Gageure
-- Def: 
+- Def: Action, projet peu croyables et ressemblant à un pari hasardeux 
 
 ### Incurie
 - Def: Manque d'application, négligence extrême 
@@ -440,25 +440,30 @@
 - Syn: Dépression
 
 ### Mécomptes
-- Def:
+- Def: Erreur de prévision, espoir fondé à tort
 
 ### Médiation
-- Def: 
+1.
+    - Def: Intervention destinée à amener un accord 
+    - Ex: Offrir sa médiation pour résoudre un conflit.
+2.
+    - Def: Fait de servir d'intermédiaire
+    - Ex: Sensibiliser le public par la médiation de la radio.
 
 ### Mobile
-- Def:
+- Def: Ce qui change, ce qui peut bouger
 
 ### Oisiveté
-- Def:
+- Def: État de quelqu'un qui vit sans travailler et sans occupation permanente 
 
 ### Pragmatique
 - Def: Qui a une valeur pratique
 
 ### Procédure
-- Def: 
+- Def: Marche à suivre, ensemble de démarches à accomplir pour obtenir tel ou tel résultat 
 
 ### Processus
-- Def:
+- Def: Suite continue d'opérations, enchaînement ordonné de faits aboutissant à quelque chose 
 
 ### Protagoniste
 1.
@@ -504,7 +509,9 @@
 - Def:
 
 ### Corrosif
-- Def:
+- Def: Qui a la propriété de détruire/corroder 
+- Syn: Destructeur
+- Ex: Une intelligence corrosive.
 
 ### Dilatoire
 - Def: Qui vise à gagner du temps par son caractère vague ou ambigu 
@@ -524,16 +531,26 @@
 - Def:
 
 ### Assener
-- Def:
+1.
+    - Def: Porter à quelqu'un un coup violent et bien appliqué
+    - Ex: Asséner un coup de bâton à un agresseur
+    - Ex: Asséner un coup de poing sur la table
+2.
+    - Def: Exprimer avec force une opinion, un propos 
+    - Ex: Asséner des arguments sans réplique
 
 ### Démanteler
-- Def:
+- Def: Détruire ce qui est organisé/construit
+- Syn: Démolir, abbatre, anéantir
 
 ### Édifier
-- Def:
+- Def: Instruire/exercer sur quelqu'un une influence morale par l'exemple ou par des paroles
+- Syn: Bâtir, construire, constituer, instruire 
+- Ex: Cet incident nous a édifiés sur ses intentions.
 
 ### Endiguer
-- Def:
+- Def: Empêcher un groupe/un phénomène de progresser
+- Syn: Bloquer, étouffer, freiner
 
 ### Exaucer
 - Def: Accueillir favorablement une demande, un voeu, y répondre 
