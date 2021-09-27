@@ -4,10 +4,10 @@ Il s'agit d'une liste commune reprenant toutes les définitions des mots devant 
 
 ## Quelques directives avant de se lancer dans l'entraide.
 
-- Respecter le format indiqué ci-dessou
+- Respecter le format indiqué ci-dessous
 - Il est demandé que toutes les définitions restent **simples** et surtout **compréhensibles**.
 - Quand c'est possible, ajouter des **synonymes** ainsi que des **exemples** de phrase qui reprennent le mot en question dans son contexte. 
-- Lorsque vous apportez une modification importante à la liste, merci de bien vouloir covher l'option "pull request"
+- Lorsque vous apportez une modification importante à la liste, merci de bien vouloir cocher l'option "pull request"
 
 ## Format des mots et des définitions: 
 
@@ -17,3 +17,7 @@ Il s'agit d'une liste commune reprenant toutes les définitions des mots devant 
 - Ex: Ton example
 - Syn: Tes synonymes
 ```
+
+Merci d'avance pour vos contributions!
+
+~les co-fondateurs Daniil, Martin & Lucas
