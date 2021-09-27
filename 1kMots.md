@@ -325,10 +325,9 @@
 	Ex:  Proroger un passeport.
 
 ### Proscrire
-- Def: 
+- Def: Interdire quelque chose, en condamner l'usage ou chasser quelqu'un d'un groupe
 - Ex:  Proscrire le café de l'alimentation.
-	-Bannir, exiler.    (Histoire)
-	-Interdire formellement (une chose que l'on condamne, l'usage de qqch.). (littéraire)
+- Syn: Bannir, interdire, exiler
 
 ### Se raviser à
 - Syn: Changer d'opinion. 
@@ -501,13 +500,16 @@
 - Def: Art de coordonner des actions/forces militaires
 
 ### Suspens
-- Def:
+- Def: Privant un clerc (dans l'église), pour un temps ou pour toujours, de l'exercice du poste confié
+- Ex: Se dit d'un clerc frappé de suspense.
 
 ### Tergiversation
 - Def: Faire traîner les choses en longueur pour éviter une décision
 
 ### Vertu
-- Def:
+- Def:  Disposition particulière pour tel devoir, telle bonne action
+- Syn: Qualité
+- Ex:  La vertu de modestie.
 
 ### Corrosif
 - Def: Qui a la propriété de détruire/corroder 
@@ -523,14 +525,23 @@
 - Ex: Examen probatoire
 
 ### Rédhibitoire
-- Def:
+- Def: Se dit d'un défaut essentiel, capable d'être un empêchement absolu
+- Ex: Il ne sait pas garder un secret, c'est un vice rédhibitoire.
 
-### Réticient
-- Def:
+### Réticent
+- Def:Qui manifeste une certaine réserve, une hésitation, ou même une certaine opposition
+- Syn:  hésitant
+- Ex: Se montrer réticent devant un projet.
 
-### Achopper ajourner
-- Def:
+### Achopper 
+- Def: Être arrêté par un obstacle, une difficulté
+- Syn: se heurter à
+- Ex: Les négociations achoppèrent sur une difficulté mineure
 
+### Ajourner
+- Def: Renvoyer une action à un autre jour, à plus tard
+- Syn: différer, reporter
+- Ex: Ajourner une réunion à quinzaine.
 ### Assener
 1.
     - Def: Porter à quelqu'un un coup violent et bien appliqué
@@ -564,7 +575,8 @@
 - Syn: Fonder
 
 ### Louvoyer
-- Def:
+- Def: Prendre des biais pour atteindre son but
+- Ex: Louvoyer devant des difficultés.
 
 ### Obvier
 - Def: Prendre les mesures nécessaires pour faire obstacle à quelque chose
