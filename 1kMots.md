@@ -679,3 +679,194 @@
 ### Incantation
 - Ex: La poésie africaine se présente parfois sous forme d'incantations. 
 - Def: Paroles ou chants destinés à avoir un effet magique. 
+
+## Semaine du 11/10
+
+### Loquace:
+- Def: Qui parle beaucoup
+- Syn: bavard - prolixe - volubile
+- Ex: Vous n'êtes pas très loquace aujourd'hui.
+
+### Péremptoire:
+- Def: À quoi on ne peut rien répliquer, indiscutable
+- Ex: Un argument péremptoire a clos la discussion
+
+### Prolixe:
+- Def: Qui se perd en développements superflus
+- Syn: bavard - diffus - verbeux
+- Ex: Ecrivain prolixe 
+
+### Sentencieux:
+- Def: Qui s'exprime souvent par sentences ou avec une solennité affectée
+- Syn: déclamatoire - emphatique - grandiloquent
+- Ex: Un ton sentencieux.
+
+### Spirituel
+- Def:  Qui est de la nature de l'esprit, considéré comme une réalité distincte de la matière
+- Syn: immatériel 
+- Ex: La nature spirituelle de l'âme.
+
+### Tacite:
+-Def: Qui est considéré comme implicitement admis
+- Syn: implicite - sous-entendu
+- Ex: Consentement tacite.
+
+### Truculent:
+- Def: Qui est haut en couleur, plein de pittoresque et de vigueur
+- Ex: Personnages truculents.
+
+### Verbal:
+- Def: Qui est relatif à la parole, aux mots, au langage
+- Syn: oral
+- Ex:  Sur un plan verbal.
+
+### Verbeux:
+- Def: Qui use d'un flot de paroles superflues, vides de sens
+- Syn: bavard - diffus - prolixe
+- Ex: un orateur verbeux
+
+### Volubile: 
+- Déf:  Qui parle beaucoup, très vite et avec aisance. 
+- Syn: bavard - loquace
+
+### Adjurer:
+- Def: Prier, supplier quelqu'un de faire quelque chose
+- Syn:  implorer - supplier
+- Ex: On l'adjura de ne pas s'exposer inutilement.
+
+### Se concerter:
+- Def: S'accorder, se consulter pour mettre au point un projet commun
+- Syn: s'entendre
+- Ex: Nous avons eu la même idée sans nous être concertés.
+
+### En conférer:
+- Def: Avoir un entretien, une discussion avec quelqu'un au cours d'une rencontre aménagée à cet effet
+- Syn: s'entretenir 
+- Ex: L'ambassadeur a conféré plus d'une heure avec le président.
+
+### Se congratuler:
+- Def: Féliciter quelqu'un, le complimenter sur un heureux événement
+- Syn: complimenter - féliciter 
+- Ex: Chacun s'empressa de congratuler le vainqueur.
+
+### Se dédire:
+- Def: Désavouer ce qu'on avait dit, revenir sur une affirmation ou sur un accord ; se rétracter
+- Syn: se désavouer - se raviser
+- Ex: Le témoin s'est dédit.
+
+### Défrayer:
+- Def: Payer à quelqu'un la dépense de quelque chose
+- Ex: On l'a défrayé de ses frais de voyage.
+
+### Délibérer:
+- Def: Discuter à l'intérieur d'un groupe, d'un jury, d'une commission, etc., en vue d'une décision
+- Syn: Débattre - Discuter 
+- Ex: Les jurés n'ont pas fini de délibérer.
+
+### Dénigrer:
+- Def: Attaquer la réputation de quelqu'un, chercher à le rabaisser ; discréditer quelque chose, parler avec malveillance de quelque chose ou de quelqu'un 
+- Syn: calomnier - attaquer -discréditer
+- Ex: Dénigrer ses concurrents.
+
+### Désavouer:
+- Def: Refuser de reconnaître quelque chose comme sien, le renier
+- Syn: dénier - rétracter - se défendre de
+- Ex: Désavouer sa signature
+
+### Disserter:
+- Def: Parler longuement d'un point, d'une question, d'une personne
+- Syn:  discourir
+- Ex: Disserter sur la situation politique.
+
+### Eluder:
+- Def: Éviter quelque chose, s'y soustraire adroitement
+- Syn: esquiver - éviter 
+- Ex: Éluder une difficulté.
+
+### Exhorter:
+- Def: Tenter d'amener quelqu'un à quelque chose par des encouragements, par la persuasion, les prières, etc.
+- Syn:  encourager - inciter- persuader 
+- Ex:  Exhorter à la patience.
+
+### Fulminer:
+- Def: Éclater en menaces contre quelqu'un, quelque chose
+- Syn: pester - se déchaîner
+- Ex: Fulminer contre les abus.
+
+### Haranguer:
+- Def: Adresser la parole à des personnes assemblées, d'une manière solennelle dans une intention déterminée
+- Syn: prêcher - sermonner
+- Ex: Haranguer des manifestants pour les inciter à l'action.
+
+### Intercéder:
+- Def: Intervenir en faveur de quelqu'un, parler pour lui
+- Ex:  Intercéder pour un condamné.
+
+### Notifier:
+- Def: Faire connaître quelque chose à quelqu'un dans les formes légales ou usitées, lui faire part d'une décision définitive 
+- Syn: annoncer - communiquer - faire part de
+- Ex: Notifier à l'accusé l'arrêt de la cour. Je lui ai notifié son congé.
+
+### Persifler:
+- Def: Tourner quelqu'un en ridicule par des compliments ironiques, se moquer de lui.
+
+### Postuler:
+- Def: Affirmer quelque chose comme une vérité, le poser comme principe pour démontrer quelque chose
+- Syn: conjecturer - poser
+- Ex: Postulons que nous sommes d'accord sur ce point.
+
+### Préconiser:
+- Def: Conseiller quelque chose, le recommander vivement 
+- Ex:  Il préconise de s'abstenir à cette élection.
+
+### Proférer:
+- Def: Prononcer à haute et intelligible voix des paroles, en particulier quelque chose d'hostile
+- Syn: articuler - crier 
+- Ex: Il proférait des menaces, des injures.
+
+### Promulguer:
+- Déf: Effectuer la promulgation d'une loi.
+- Syn: proclamer
+
+### Prôner:
+- Def: Recommander vivement quelque chose en le vantant
+- Syn: célébrer - exalter - glorifier
+- Ex: Prôner la modération.
+
+### Rétorquer:
+- Def: Répondre, répliquer vivement quelque chose à quelqu'un
+- Syn: objecter
+- Ex: Il m'a rétorqué que j'avais tort.
+
+### Solliciter:
+- Def: Demander quelque chose à un supérieur, à une autorité 
+- Syn:  implorer -réclamer
+- Ex: Il a sollicité du président une audience.
+
+### Stigmatiser:
+- Def: Dénoncer, critiquer publiquement quelqu'un ou un acte que l'on juge moralement condamnable ou répréhensible
+- Syn:  blâmer - condamner- réprouver
+- Ex:  blâmer - condamner- réprouver
+
+### Stipuler:
+- Def: Préciser expressément quelque chose
+- Syn: spécifier
+- Ex: La note reçue stipule que l'augmentation partira du 1er août.
+
+### Se targuer:
+- Def: Se prévaloir de quelque chose avec ostentation
+- Syn: se vanter
+- Ex:  Il se targue d'être le meilleur dans ce domaine. 
+ 
+### Vilipender:
+- Def: Traiter quelqu'un, quelque chose avec beaucoup de mépris.
+- Syn: attaquer - dénigrer - discréditer
+
+### Vitupérer:
+- Def: Proférer des injures, des récriminations contre quelqu'un, quelque chose, les blâmer avec force 
+- Syn: condamner - critiquer
+- Ex: Vitupérer contre la hausse des prix.
+
+### Vociférer:
+- Def: Injurier quelqu'un, quelque chose avec colère, s'en prendre à eux verbalement avec violence
+- Ex: La foule se mit à vociférer contre l'orateur.
