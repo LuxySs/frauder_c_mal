@@ -500,7 +500,8 @@
 - Def: Art de coordonner des actions/forces militaires
 
 ### Suspens
-- Def: Se dit d'un clerc frappé de suspense.
+- Def: Privant un clerc (dans l'église), pour un temps ou pour toujours, de l'exercice du poste confié
+- Ex: Se dit d'un clerc frappé de suspense.
 
 ### Tergiversation
 - Def: Faire traîner les choses en longueur pour éviter une décision
