@@ -5,6 +5,7 @@
 3. [Semaine du 20/09](#Semaine-du-2009) : Art &nbsp;&nbsp;&nbsp;&nbsp;-> Protagoniste : Daniil et Anton
 4. [Semaine du 27/09](#Semaine-du-2709) : Réfection -> Réviser &nbsp;&nbsp;&nbsp;: Daniil et Anton
 5. [Semaine du 04/10](#Semaine-du-0410) : Acrimonie -> Laconique : Noemi
+6. [Semaine du 11/10](#Semaine-du-0410) : Loquace -> Vociférer : Martin
 
 ## Semaine du 06/09
 
