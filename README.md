@@ -1,6 +1,7 @@
 # Bienvenue sur le répositoire frauder_c_mal! 
  
 Il s'agit d'une liste commune reprenant toutes les définitions des mots devant être connus pour les tests hebdomadaires des 1000 mots.
+La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 
 ## Quelques directives avant de se lancer dans l'entraide.
 
@@ -17,7 +18,18 @@ Il s'agit d'une liste commune reprenant toutes les définitions des mots devant 
 - Ex: Ton example
 - Syn: Tes synonymes
 ```
+```
+### Mot qui a plusieurs définitions
+1.
+    - Def: Ta première définition
+2.
+    - Def: Ta deuxième définition
+    - Ex: Ton example pour la deuxième définition
+```
 
-Merci d'avance pour vos contributions!
-
-~les co-fondateurs Daniil, Martin & Lucas
+#### Merci aux presonnes qui rendent ceci possible
+- Lucas
+- Anton
+- Martin
+- Daniil
+- Noemi
