@@ -325,10 +325,9 @@
 	Ex:  Proroger un passeport.
 
 ### Proscrire
-- Def: 
+- Def: Interdire quelque chose, en condamner l'usage ou chasser quelqu'un d'un groupe
 - Ex:  Proscrire le café de l'alimentation.
-	-Bannir, exiler.    (Histoire)
-	-Interdire formellement (une chose que l'on condamne, l'usage de qqch.). (littéraire)
+- Syn: Bannir, interdire, exiler
 
 ### Se raviser à
 - Syn: Changer d'opinion. 
