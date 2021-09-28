@@ -15,7 +15,7 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 ```
 ### Mot 
 - Def: Ta définition
-- Ex: Ton example
+- Ex: Ton exemple
 - Syn: Tes synonymes
 ```
 ```
@@ -24,7 +24,7 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
     - Def: Ta première définition
 2.
     - Def: Ta deuxième définition
-    - Ex: Ton example pour la deuxième définition
+    - Ex: Ton exemple pour la deuxième définition
 ```
 
 #### Merci aux presonnes qui rendent ceci possible
