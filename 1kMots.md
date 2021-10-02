@@ -693,6 +693,73 @@
 - Ex: La poésie africaine se présente parfois sous forme d'incantations. 
 - Def: Paroles ou chants destinés à avoir un effet magique. 
 
+### Injonction
+- Ex: Dans 'Vipère au poing, d'Hervé Bazin', les enfants doivent obéir sans discuter aux injocntions de leur mère.
+- Def: Ordre d'obéir immédiatement. 
+
+### Invective
+- Ex: Bien que les dégats fussent minimes, les automobilistes se lançaient des invectives.
+- Def: Injures, attaques verables violentes.
+
+### Malédiction
+- Ex: Le mauvais fils dut quitter la maison sous les malédictions de son père.
+- Def: Appel à la colère de Dieu pour attirer le malheur sur quelqu'un (sens religieux).
+
+### Plaidoirie
+- Ex: La plaidoirie de l'avocat de Meursault n'est guère habile.
+- Def: Défense d'un accusé par un avocat au cours d'un procès.
+
+### Plaidoyer
+- Ex: Le roman de Victor Hugo, Les Misérables, est un plaidoyer pour les déshérités.
+- Def: Défense d'une personne ou d'une idée à l'aide d'une argumentation serrée.
+
+### Polémique
+- Ex: L'annonce d'un changement du mode d'élection des députés a entraîné une polémique.
+- Def: Débat violent dans lequel les oppositions s'expriment avec aggressivité.
+
+### Récrimination
+- Ex: Il s'est lassé des récriminations de ses enfants.
+- Def: des protestations, des réclamations.
+
+### Requête
+- Ex: J'ai une requête à vous adresser.
+- Def: Une demande un peu solennelle.
+
+### Sarcasme
+- Ex: Gervaise était constamment blessée par les sarcasmes de son mari.
+- Def: Raillerie de l'ironie mordante. 
+
+### Soliloque
+- Ex: Dans les landes bretonnes, René poursuivait son soliloque.
+- Def: Un monologue intérieur.
+
+### Tollé
+- Ex: L'annonce du raccourcissement des vacances d'été a suscité un tollé.
+- Def: Des protestations générales très véhémentes.
+
+### Verve
+- Ex: La verve de Figaro est inimitable.
+- Def: Abondance verbale, qualité d'un discours brillant.
+
+### Acerbe
+- Ex: C'est une femme déçue qui accable son mari de remarques acerbes.
+- Def: Qualifie des propos qui cherchent à blesser, à piquer.
+
+### Caustique
+- Ex: Voltaire était redouté pour ses remarques caustiques.
+- Def: Par allusion à des produits qui attaquent les tissus organiques, qualifie le fait de se plaire à être mordant, clinglant dans ses plaisanteries ou dans ses critiques.
+
+### Emphatique
+- Ex: Le ton emphatique de son discours faisait démodé.
+- Def: Manière de s'exprimer extravagante, démesurée, tant par le ton que par le style ou le choix des mots.
+
+### Gouailleur(se)
+- Ex: Gavroche parle d'un ton gouailleur.
+- Def: Ton prêté aux gaminsde de Paris; déisgne une façon de se moquer des gens avec une ironie assez grossière.
+
+### Laconique
+- Ex: Le message des naufragés est si laconique qu'on ne sait ou diriger les recherches.
+- Def: Qui comporte peu de mots.
 ## Semaine du 11/10
 
 ### Loquace:
