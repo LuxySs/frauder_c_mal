@@ -663,7 +663,7 @@
 - Def: Un développement hors du sujet.
 
 ### Elocution
-- Ex: On aimerait que kes présentateurs de la télévisionaient une élocution parfaite.
+- Ex: Il a une élocution sur les abeilles à présenter en classe demain.
 - Def: Manière de s'exprimer oralement.
 
 ### Eloquence
