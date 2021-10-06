@@ -684,7 +684,7 @@
 
 ### Grandiloquence
 - Ex: La grandiloquence est considérée comme une faute de goût.
-- Def: Eloquene qui abuse des grands mots. 
+- Def: Forme d'expression qui abuse des grands mots. 
 
 ### Imprécation 
 - Ex: Dans Cinna, De Corneille Camille lance des imprécations contre Rome, qu'elle rend responsable la mort de son fiancé.
