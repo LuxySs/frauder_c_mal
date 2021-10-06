@@ -651,6 +651,7 @@
 
 ### Dénégation
 - Ex: Personne n'a été impressionné par ses dénégations.
+- Syn: Nier
 - Def: La négation de faits.
 
 ### Diffamation
