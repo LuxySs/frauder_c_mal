@@ -27,7 +27,7 @@
 14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
     * :x: pour Kaloyan
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
-    * :x: marquée comme 31/02 dans la liste
+    * :x: pour Nilufer marquée comme 31/02 dans la liste
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
     * :x: 
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
