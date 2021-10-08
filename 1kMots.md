@@ -1,11 +1,51 @@
 # Table des Matières
 
-1. [Semaine du 06/09](#Semaine-du-0609) : Anarchie -> Tributaire : Martin, Daniil et Anton
-2. [Semaine du 13/09](#Semaine-du-1309) : Abroger &nbsp;-> Usurper &nbsp;&nbsp;: Lucas
-3. [Semaine du 20/09](#Semaine-du-2009) : Art &nbsp;&nbsp;&nbsp;&nbsp;-> Protagoniste : Daniil et Anton
-4. [Semaine du 27/09](#Semaine-du-2709) : Réfection -> Réviser &nbsp;&nbsp;&nbsp;: Daniil et Anton
-5. [Semaine du 04/10](#Semaine-du-0410) : Acrimonie -> Laconique : Noemi
-6. [Semaine du 11/10](#Semaine-du-1110) : Loquace -> Vociférer : Martin
+1. [Semaine du 06/09](#Semaine-du-0609) : Anarchie -> Tributaire
+    * :white_check_mark: par Martin, Daniil et Anton
+2. [Semaine du 13/09](#Semaine-du-1309) : Abroger -> Usurper
+    * :white_check_mark: par Lucas
+3. [Semaine du 20/09](#Semaine-du-2009) : Art -> Protagoniste
+    * :white_check_mark: par Daniil et Anton
+4. [Semaine du 27/09](#Semaine-du-2709) : Réfection -> Réviser
+    * :white_check_mark: par Daniil et Anton
+5. [Semaine du 04/10](#Semaine-du-0410) : Acrimonie -> Laconique
+    * :white_check_mark: par Noemi
+6. [Semaine du 11/10](#Semaine-du-1110) : Loquace -> Vociférer
+    * :white_check_mark: par Martin
+7. [Semaine du 18/10](#Semaine-du-1118) : Adversité -> Vicissitude
+    * :x: pour Lara
+8. [Semaine du 25/10](#Semaine-du-2510) : Fatal -> Régénérer
+    * :x: pour Guccio
+9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
+    * :x: pour César
+11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
+    * :x: pour Jeremy, marquée comme 15/01 dans la liste
+12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
+    * :x: pour Alex
+13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
+    * :x: pour Miray
+14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
+    * :x: pour Kaloyan
+15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
+    * :x: marquée comme 31/02 dans la liste
+16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
+    * :x: 
+17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
+    * :x: 
+18. [Semaine du 21/02](#Semaine-du-2102) : Avilissement -> Ignoble
+    * :x: 
+19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
+    * :x: 
+20. [Semaine du 14/03](#Semaine-du-1403) : Affectivité -> Sérénité
+    * :x: 
+21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
+    * :x: 
+22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
+    * :x: 
+23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
+    * :x: 
+24. [Semaine du 25/04](#Semaine-du-2504) : Acception -> Se référer
+    * :x:
 
 ## Semaine du 06/09
 
@@ -950,3 +990,37 @@
 ### Vociférer:
 - Def: Injurier quelqu'un, quelque chose avec colère, s'en prendre à eux verbalement avec violence
 - Ex: La foule se mit à vociférer contre l'orateur.
+
+## Semaine du 18/10
+
+## Semaine du 25/10
+
+## Semaine du 08/11
+
+## Semaine du 15/11
+
+## Semaine du 10/01
+
+## Semaine du 17/01
+
+## Semaine du 24/01
+
+## Semaine du 31/01
+
+## Semaine du 07/02
+
+## Semaine du 14/02
+
+## Semaine du 21/02
+
+## Semaine du 07/03
+
+## Semaine du 14/03
+
+## Semaine du 21/03
+
+## Semaine du 28/03
+
+## Semaine du 18/04
+
+## Semaine du 25/04
