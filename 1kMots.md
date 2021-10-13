@@ -12,7 +12,7 @@
     * :white_check_mark: par Noemi
 6. [Semaine du 11/10](#Semaine-du-1110) : Loquace -> Vociférer
     * :white_check_mark: par Martin
-7. [Semaine du 18/10](#Semaine-du-1118) : Adversité -> Vicissitude
+7. [Semaine du 18/10](#Semaine-du-1810) : Adversité -> Vicissitude
     * :x: pour Lara
 8. [Semaine du 25/10](#Semaine-du-2510) : Fatal -> Régénérer
     * :x: pour Guccio
