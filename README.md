@@ -5,7 +5,7 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 
 ## Pour contribuer:
 
-- Respecter le format indiqué ci-dessous
+- Respectez le format indiqué ci-dessous
 - Gardez vos définitions **simples** et **compréhensibles**
 - Utilisez de préférence [Le Larousse](https://www.larousse.fr/) pour les définitions 
 - Ajoutez de préférence des **synonymes** et des **exemples** de phrase qui reprennent le mot
