@@ -29,9 +29,9 @@
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
     * :x: pour Nilufer marquée comme 31/02 dans la liste
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
-    * :x: 
+    * :x: pour Madeleine
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
-    * :x: 
+    * :x: pour Louise
 18. [Semaine du 21/02](#Semaine-du-2102) : Avilissement -> Ignoble
     * :x: 
 19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
