@@ -3,12 +3,13 @@
 Il s'agit d'une liste commune reprenant toutes les définitions des mots devant être connus pour les tests hebdomadaires des 1000 mots.
 La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 
-## Quelques directives avant de se lancer dans l'entraide.
+## Pour contribuer:
 
 - Respecter le format indiqué ci-dessous
+- Utilisez de préférence [Le Larousse](https://www.larousse.fr/) pour les définitions 
 - Il est demandé que toutes les définitions restent **simples** et surtout **compréhensibles**.
-- Quand c'est possible, ajouter des **synonymes** ainsi que des **exemples** de phrase qui reprennent le mot en question dans son contexte. 
-- Lorsque vous apportez une modification importante à la liste, merci de bien vouloir cocher l'option "pull request"
+- Quand c'est possible, ajouter des **synonymes** ainsi que des **exemples** de phrase qui reprennent le mot en question dans son contexte.
+- 
 
 ## Format des mots et des définitions: 
 
