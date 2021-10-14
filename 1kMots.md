@@ -827,7 +827,7 @@
 - Ex: La nature spirituelle de l'âme.
 
 ### Tacite:
--Def: Qui est considéré comme implicitement admis
+- Def: Qui est considéré comme implicitement admis
 - Syn: implicite - sous-entendu
 - Ex: Consentement tacite.
 
