@@ -966,7 +966,7 @@
 ### Stigmatiser:
 - Def: Dénoncer, critiquer publiquement quelqu'un ou un acte que l'on juge moralement condamnable ou répréhensible
 - Syn:  blâmer - condamner- réprouver
-- Ex:  blâmer - condamner- réprouver
+- Ex:  Stigmatiser les responsables de la mauvaise gestion économique.
 
 ### Stipuler:
 - Def: Préciser expressément quelque chose
