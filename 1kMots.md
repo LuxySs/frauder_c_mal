@@ -993,6 +993,78 @@
 
 ## Semaine du 18/10
 
+### Adversité:  
+- Def: État de celui qui éprouve des revers, malchances  
+- Syn: Difficulté 
+- Ex: Face à l’adversité, elle est toujours restée digne et a continué à se battre jusqu'à ce que la maladie emporte la bataille. 
+
+### Avatar: 
+- Def: Événement fâcheux, accident ; mésaventure. Ou Changement, transformation   
+- Syn: changement ou mésaventure   
+
+### Dégénérescence: 
+- Def: C’est le fait de s’altérer 
+- Syn: Détérioration 
+
+### Engeance:  
+- Def: Catégorie de personnes méprisable ou détestables 
+- Ex: Les voleurs sont une des plus insupportable engeance. 
+
+### Génie:  
+- Def: Aptitude particulière, talent 
+- Syn: Talent, aptitude 
+- Ex: Le génie des affaires  
+
+### Genre: 
+- Def: Ensemble d’être ou de choses ayant un caractère commun 
+- Syn: Type 
+- Ex: Il aime un genre bien particulier de littérature 
+
+### Hymen: 
+- Def: Mariage, noce 
+
+### Moeurs:  
+- Def: Habitudes de vie, de comportement 
+- Syn: Mentalité 
+- Ex: Chaque société à ses mœurs 
+
+### Nécrologie:  
+- Def: Notice biographique consacrée à une personne décédée récemment 
+- Ex: J’ai lu dernièrement la nécrologie d’une personne dans mon journal 
+
+### Parricide:  
+- Def: Meurtre d’un ainé  
+- Ex: Le parricide est interdit par la loi 
+
+### Parturition:  
+- Def: Le fait d’accoucher  
+- Ex: Les bébés boivent du lait maternelle plusieurs mois après la parturition 
+
+### Patrimoine:  
+- Def: Qqch hérités par ses parents, ses ancêtres  
+- Syn: Fortune  
+- Ex: Il n’a jamais voulu toucher à son patrimoine 
+
+### Postérité:
+- Def: Suites de génération future, descendance 
+- Ex: Cette personne est décédée sans postérité 
+
+### Progéniture:  
+- Def: Ensemble des êtres engendrés par qqun 
+- Ex: Emmener sa progéniture en vacances  
+
+### Régénération: 
+- Def: Fait de reproduire, de reconstituer 
+- Ex: La régénération du pays après la guerre c’est fait lentement 
+
+### Trépas:  
+- Def: Passage de la vie à la mort 
+- Ex: Tout le monde passe par le trépas un jour ou l’autre 
+
+### Vicissitude: 
+- Def: Succession d’événements bons ou mauvais 
+- Ex: Les vicissitudes de la fortune 
+
 ## Semaine du 25/10
 
 ## Semaine du 08/11
