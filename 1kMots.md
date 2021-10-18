@@ -13,7 +13,7 @@
 6. [Semaine du 11/10](#Semaine-du-1110) : Loquace -> Vociférer
     * :white_check_mark: par Martin
 7. [Semaine du 18/10](#Semaine-du-1810) : Adversité -> Vicissitude
-    * :white_check_mark: pour Lara
+    * :white_check_mark: par Lara
 8. [Semaine du 25/10](#Semaine-du-2510) : Fatal -> Régénérer
     * :x: pour Guccio
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
