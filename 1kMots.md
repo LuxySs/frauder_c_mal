@@ -37,9 +37,9 @@
 19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
     * :x: pour Sara
 20. [Semaine du 14/03](#Semaine-du-1403) : Affectivité -> Sérénité
-    * :x: 
+    * :x: pour Diane
 21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
-    * :x: 
+    * :x: pour Apolline
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
     * :x: 
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
