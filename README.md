@@ -33,3 +33,4 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 - Martin
 - Daniil
 - Noemi
+- Lara
