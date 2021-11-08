@@ -15,7 +15,7 @@
 7. [Semaine du 18/10](#Semaine-du-1810) : Adversité -> Vicissitude
     * :white_check_mark: par Lara
 8. [Semaine du 25/10](#Semaine-du-2510) : Fatal -> Régénérer
-    * :x: pour Guccio
+    * :white_check_mark: par Anton
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
     * :x: pour César
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
@@ -41,7 +41,7 @@
 21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
     * :x: pour Apolline
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
-    * :x: 
+    * :x: pour Guccio
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
     * :x: 
 24. [Semaine du 25/04](#Semaine-du-2504) : Acception -> Se référer
@@ -1066,6 +1066,68 @@
 - Ex: Les vicissitudes de la fortune 
 
 ## Semaine du 25/10
+
+### Fatal:
+- Def: Qui doit nécessairement arriver
+- Syn: Inévitable
+
+### Fatidique:
+- Def: Qui semble fixé par le destin et qui marque généralement une circonstance importante
+
+### Funèbre:
+- Def: Qui fait penser à la mort
+- Syn: Sombre, triste, sinistre
+- Ex: Une mine funèbre.
+
+### Funeste:
+- Def: Apporte la mort, le malheur.
+
+### Inné:
+- Def: Que l'on possède dès la naissance.
+
+### Matriarcal:
+- Def: Situation familiale ou sociale où la place de la femme et son autorité sont dominantes
+
+### Moribond:
+- Def: Qui est près de mourir
+
+### Nuptial:
+- Def: Relatif au marriage, à l'union entre les époux
+
+### Posthume:
+- Def: Né après la mort de son père
+
+### Prédestiné:
+- Def: Personne que Dieu a destinée à la gloire éternelle.
+
+### Prédestiner:
+1.
+    - Def: En parlant de Dieu, fixer de toute éternité la fin dernière de la créature humaine.
+2.
+    - Def: Vouer quelqu'un d'avance à un rôle, à une action 
+	- Ex: Rien ne le prédestinait à cet emploi.
+
+### Être prédestiné:
+1.
+    - Def: Être voué d'avance à être ou à agir de telle ou telle manière.
+2.
+    - Def: Avoir une fin dernière fixée par un décret éternel divin.
+
+### Prolifique:
+- Def: Se multipliant rapidement
+
+### Puérile:
+- Def: Relatif à l'enfance
+
+### Sénile:
+- Def: Propre à la vieillesse.
+- Syn: De vieillard
+
+### Dégénérer:
+- Def: Perdre les qualités naturelles de son espèce, de sa lignée.
+
+### Régénérer:
+- Def: Renouveler en redonnant les qualités perdues.
 
 ## Semaine du 08/11
 
