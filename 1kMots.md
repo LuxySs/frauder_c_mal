@@ -1133,6 +1133,97 @@
 
 ## Semaine du 15/11
 
+### Débilitant:
+- Def :Qui affaiblit. Qui démoralise.
+- Syn : affaiblissant
+
+### érotique:
+- Def : Qui a rapport à l'amour. Qui a rapport à l'amour physique (sexuel) avec une dimension symbolique.
+
+### Exsangue:
+- Def : Qui a perdu beaucoup de sang.Partie du corps qui devient très pâle.
+
+### Famélique:
+- Def : Qui ne mange pas à sa faim, qui est maigre.
+- Syn: affamé
+
+### Fécond:
+- Def : Capable de se reproduire
+- Cont: Stérile
+
+### Guttural:
+- Def :Qui est émis du fond de la gorge ; rauque
+- Syn : dur, rude
+- Exemple : Cris Gutturaux
+
+### Impotent:
+- Def : Qui ne peut pas se déplacer, ou se déplace très difficilement.
+- Exemple : Vieillard impotent.
+
+### Insatiable:
+- Def : Qui ne peut être rassasié, satisfait
+
+### Oculaire:
+- Def : En rapport avec l'oeil
+
+### Oppressant:
+- Def :  Qui pèse lourdement ; étouffant : L'atmosphère oppressante, tendue.
+
+### Pathologique:
+- Def : Se dit d'un comportement anormal, étrange qu'on assimile à une maladie
+
+### Roboratif:
+- Def : Qui revigore, redonne des forces. Forifiant
+
+### Salubre:
+- Def :Qui a une action favorable sur l'organisme, Sain
+- Syn : Hygiénique, stimulant
+
+### Sclérosé:
+- Def : État, défaut de ce qui ne sait plus évoluer ni s'adapter, Durcissement pathologique (d'un organe, d'un tissu).
+
+### Sensuel:
+- Def :Propre aux sens, émanant des sens
+
+### Sporifique:
+- Def : Qui provoque le sommeil.
+- Syn : Endormant, ennuyeux.
+
+### Tangible:
+- Def :Qu'on connaît par le toucher,Que chacun peut constater, qui ne saurait être mis en doute
+- Syn :concret
+
+### Thérapeutique:
+- Def :Qui concerne le traitement des maladies ; apte à guérir.
+- Syn : curatif
+
+### Valide:
+- Def : Qui est en bonne santé, capable de travail, d'exercice
+- Syn : valable 
+
+### Anesthésier:
+- Def : Provoquer l'anesthésie de (un organisme, un organe), en soumettant à l'action d'un anesthésique.
+- Syn : Insensibiliser endormir
+
+### Assouvrir:
+- Def :Calmer complètement (un violent appétit).
+- Syn : apaiser, satisfaire
+
+### S'étioler:
+- Def : Rendre (qqn) chétif, pâle.
+- Syn : affaiblir
+
+### Scléroser:
+- Def :Faire perdre à quelqu'un ou quelque chose, à une collectivité toute capacité d'évoluer, les figer 
+- Syn :s'engourdir
+
+### Subsister:
+- Def :Continuer d'exister, après élimination des autres éléments, ou malgré le temps.
+- Syn :Survivre
+
+### (se)Sustenter:
+- Syn : se nourrir, manger 
+
 ## Semaine du 10/01
 
 ## Semaine du 17/01
