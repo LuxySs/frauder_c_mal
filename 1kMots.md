@@ -19,7 +19,7 @@
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
     * :x: pour César
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
-     * :white_check_mark: pour Jeremy, marquée comme 15/01 dans la liste
+     * :white_check_mark: par Jeremy, marquée comme 15/01 dans la liste
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
     * :x: pour Alex
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
@@ -1131,98 +1131,155 @@
 
 ## Semaine du 08/11
 
+### Atrophie
+- Def: Réduction d'activité, poids, volume
+- Ex: Atrophie de l'intelligence. L'atrophie progressive d'une industrie.
+- Syn: Amoindrissement - déchéance - dégradation - dépérissement - diminution
+
+### Cérite
+- Def: 
+	1. État d'une personne aveugle.
+	2. Aveuglement de l'esprit.
+- Syn: égarement - entêtement
+
+### Célérité
+- Def: Rapidité, promptitude dans l'exécution
+- Ex: Les travaux ont été conduits avec célérité.
+- Syn: diligence - empressement - hâte - précipitation - prestesse - promptitude - vélocité - vitesse - vivacité
+
+### Commotion 
+- Def: 
+	1. Violent ébranlement physique ou psychique subi par quelqu'un
+	2. Perturbation sociale ou politique, violent ébranlement dû à la guerre, à une révolution. 
+- Ex: 
+	1. Il est encore sous le coup de la commotion cérébrale.
+	2. La mort de son fils lui avait causé une violente commotion.
+- Syn: choc - secousse - traumatisme-bouleversement - coup - saisissement-convulsion - désordre - orage - tempête - tourmente
+
+### Complexion 
+- Def: 
+	1. Constitution physique du corps ; état de son organisme surtout sous le rapport de la résistance 
+	2. Humeur, inclination, caractère
+- Ex: Complexion robuste. Être de complexion amoureuse.
+
+### Décrépitude 
+- Def: 
+	1. Dégradation, délabrement physique et intellectuel dû à une extrême vieillesse. 
+	2. Décadence d'une société, d'une civilisation.
+- Syn: déchéance - sénilité -agonie - déclin - dégénérescence - déliquescence
+
+### Dextérité 
+- Def: 
+	1. Adresse de la main dans l'exécution de quelque chose.
+	2. Adresse d'esprit, ingéniosité dans l'accomplissement d'une action
+- Ex: Conduire une affaire avec beaucoup de dextérité.
+- Syn: adresse - doigté - savoir-faire - talent - virtuosité-art - astuce - diplomatie - entregent - ingéniosité - habileté
+
+### Effigie 
+- Def: 
+	1. Représentation en sculpture, en peinture, en gravure d'une personne vivante ou morte. 
+	2. Avers d'une monnaie ou d'une médaille, représentant la tête d'un roi, d'un prince ou d'un grand personnage.
+- Syn: figure - image - portrait
+
+### Fébrilité 
+- Def: 
+	1. État de quelqu'un qui a de la fièvre. 
+	2. Excitation désordonnée
+- Syn: agitation - exaltation - fièvre - frénésie - nervosité
+
 ## Semaine du 15/11
 
 ### Débilitant:
-- Def :Qui affaiblit. Qui démoralise.
-- Syn : affaiblissant
+- Def: Qui affaiblit. Qui démoralise.
+- Syn: Affaiblissant
 
-### érotique:
-- Def : Qui a rapport à l'amour. Qui a rapport à l'amour physique (sexuel) avec une dimension symbolique.
+### Érotique:
+- Def: Qui a rapport à l'amour. Qui a rapport à l'amour physique (sexuel) avec une dimension symbolique.
 
 ### Exsangue:
-- Def : Qui a perdu beaucoup de sang.Partie du corps qui devient très pâle.
+- Def: Qui a perdu beaucoup de sang. Partie du corps qui devient très pâle.
 
 ### Famélique:
-- Def : Qui ne mange pas à sa faim, qui est maigre.
-- Syn: affamé
+- Def: Qui ne mange pas à sa faim, qui est maigre.
+- Syn: Affamé
 
 ### Fécond:
-- Def : Capable de se reproduire
+- Def: Capable de se reproduire
 - Cont: Stérile
 
 ### Guttural:
-- Def :Qui est émis du fond de la gorge ; rauque
-- Syn : dur, rude
-- Exemple : Cris Gutturaux
+- Def: Qui est émis du fond de la gorge ; rauque
+- Syn: Dur, rude
+- Ex: Cris Gutturaux
 
 ### Impotent:
-- Def : Qui ne peut pas se déplacer, ou se déplace très difficilement.
-- Exemple : Vieillard impotent.
+- Def: Qui ne peut pas se déplacer, ou se déplace très difficilement.
+- Ex: Vieillard impotent.
 
 ### Insatiable:
-- Def : Qui ne peut être rassasié, satisfait
+- Def: Qui ne peut être rassasié, satisfait
 
 ### Oculaire:
-- Def : En rapport avec l'oeil
+- Def: En rapport avec l'oeil
 
 ### Oppressant:
-- Def :  Qui pèse lourdement ; étouffant : L'atmosphère oppressante, tendue.
+- Def: Qui pèse lourdement ; étouffant : L'atmosphère oppressante, tendue.
 
 ### Pathologique:
-- Def : Se dit d'un comportement anormal, étrange qu'on assimile à une maladie
+- Def: Se dit d'un comportement anormal, étrange qu'on assimile à une maladie
 
 ### Roboratif:
-- Def : Qui revigore, redonne des forces. Forifiant
+- Def: Qui revigore, redonne des forces. Forifiant
 
 ### Salubre:
-- Def :Qui a une action favorable sur l'organisme, Sain
-- Syn : Hygiénique, stimulant
+- Def: Qui a une action favorable sur l'organisme, Sain
+- Syn: Hygiénique, stimulant
 
 ### Sclérosé:
-- Def : État, défaut de ce qui ne sait plus évoluer ni s'adapter, Durcissement pathologique (d'un organe, d'un tissu).
+- Def: État, défaut de ce qui ne sait plus évoluer ni s'adapter, Durcissement pathologique (d'un organe, d'un tissu).
 
 ### Sensuel:
-- Def :Propre aux sens, émanant des sens
+- Def: Propre aux sens, émanant des sens
+- Syn: Érotique
 
 ### Sporifique:
-- Def : Qui provoque le sommeil.
-- Syn : Endormant, ennuyeux.
+- Def: Qui provoque le sommeil.
+- Syn: Endormant, ennuyeux.
 
 ### Tangible:
-- Def :Qu'on connaît par le toucher,Que chacun peut constater, qui ne saurait être mis en doute
-- Syn :concret
+- Def: Qu'on connaît par le toucher,Que chacun peut constater, qui ne saurait être mis en doute
+- Syn: Concret
 
 ### Thérapeutique:
-- Def :Qui concerne le traitement des maladies ; apte à guérir.
-- Syn : curatif
+- Def: Qui concerne le traitement des maladies ; apte à guérir.
+- Syn: Curatif
 
 ### Valide:
-- Def : Qui est en bonne santé, capable de travail, d'exercice
-- Syn : valable 
+- Def: Qui est en bonne santé, capable de travail, d'exercice
+- Syn: valable 
 
 ### Anesthésier:
-- Def : Provoquer l'anesthésie de (un organisme, un organe), en soumettant à l'action d'un anesthésique.
-- Syn : Insensibiliser endormir
+- Def: Provoquer l'anesthésie de (un organisme, un organe), en soumettant à l'action d'un anesthésique.
+- Syn: Insensibiliser endormir
 
 ### Assouvrir:
-- Def :Calmer complètement (un violent appétit).
-- Syn : apaiser, satisfaire
+- Def: Calmer complètement (un violent appétit).
+- Syn: Apaiser, satisfaire
 
 ### S'étioler:
-- Def : Rendre (qqn) chétif, pâle.
-- Syn : affaiblir
+- Def: Rendre (qqn) chétif, pâle.
+- Syn: Affaiblir
 
 ### Scléroser:
-- Def :Faire perdre à quelqu'un ou quelque chose, à une collectivité toute capacité d'évoluer, les figer 
-- Syn :s'engourdir
+- Def: Faire perdre à quelqu'un ou quelque chose, à une collectivité toute capacité d'évoluer, les figer 
+- Syn: S'engourdir
 
 ### Subsister:
-- Def :Continuer d'exister, après élimination des autres éléments, ou malgré le temps.
-- Syn :Survivre
+- Def: Continuer d'exister, après élimination des autres éléments, ou malgré le temps.
+- Syn: Survivre
 
-### (se)Sustenter:
-- Syn : se nourrir, manger 
+### (Se) Sustenter:
+- Syn: Se nourrir, manger 
 
 ## Semaine du 10/01
 
