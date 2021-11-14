@@ -19,7 +19,7 @@
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
     * :x: pour César
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
-    * :x: pour Jeremy, marquée comme 15/01 dans la liste
+     * :white_check_mark: pour Jeremy, marquée comme 15/01 dans la liste
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
     * :x: pour Alex
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
