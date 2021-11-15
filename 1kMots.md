@@ -1262,7 +1262,7 @@
 - Def: Provoquer l'anesthésie de (un organisme, un organe), en soumettant à l'action d'un anesthésique.
 - Syn: Insensibiliser endormir
 
-### Assouvrir:
+### Assouvir:
 - Def: Calmer complètement (un violent appétit).
 - Syn: Apaiser, satisfaire
 
