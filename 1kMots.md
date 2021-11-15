@@ -1187,6 +1187,47 @@
 	2. Excitation désordonnée
 - Syn: agitation - exaltation - fièvre - frénésie - nervosité
 
+### Hystérie
+- Def: Excitation exagérée
+- Ex: L'hystérie d'une foule déchaînée.
+- Syn: délire - frénésie - fureur
+
+### Inanition 
+- Def: Privation d'aliments.
+
+### Innocuité 
+- Def: Caractère de ce qui n'est pas toxique, nocif
+- Ex: L'innocuité d'un médicament.
+
+### Mutisme 
+- Def: Attitude de quelqu'un qui reste silencieux 
+- Ex: Il s'enferme dans un mutisme complet pendant des jours. Le mutisme des journaux sur ce problème.
+- Syn: silence-mutité
+
+### Satyre 
+- Def: 
+	1. Individu qui se livre sur la voie publique à des manifestations exhibitionnistes, à des attentats contre la honte.
+	2. Corps humain avec des jambes de bouc, des oreilles allongées et pointues, des cornes recourbées et une queue
+- Syn: faune - silène, aussi un papillon
+
+### Sensation 
+- Def: 
+	1. Phénomène interne causé par une stimulation d'un de ses organes récepteurs 
+	2. État psychologique découlant des impressions reçues
+- Ex: Les sensations visuelles. Une sensation de bien-être.
+- Syn: impression - sentiment
+
+### Vélocité 
+- Def: Grande rapidité dans le mouvement
+- Ex: Courir avec vélocité.
+- Syn: célérité - prestesse - promptitude - rapidité - vitesse - vivacité
+
+### Aguerri
+- Def: 
+	1. Devenir, être plus robuste, plus résistant
+	2. S'habituer à des choses pénibles
+- Ex: S'aguerrir à la douleur. Une armée aguerrie.
+
 ## Semaine du 15/11
 
 ### Débilitant:
