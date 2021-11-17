@@ -17,7 +17,7 @@
 8. [Semaine du 25/10](#Semaine-du-2510) : Fatal -> Régénérer
     * :white_check_mark: par Anton
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
-    * ⌛ pour César (complété partiellement)
+    * :white_check_mark: par César
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
      * :white_check_mark: par Jeremy, marquée comme 15/01 dans la liste
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
@@ -1227,6 +1227,36 @@
 	1. Devenir, être plus robuste, plus résistant
 	2. S'habituer à des choses pénibles
 - Ex: S'aguerrir à la douleur. Une armée aguerrie.
+
+### Amnésique 
+- Def: Relatif à la diminution ou perte de la mémoire.
+
+### Allergique 
+- Def: Incapacité à supporter quelqu'un ou quelque chose
+
+### Amorphe 
+- Def: Qui manque de personnalité, de caractère, d'énergie
+- Ex: Un gros garçon amorphe.
+- Syn: inconsistant - mou
+
+### Apathique 
+- Def: Qui fait preuve d'indifférence
+- Ex: Administration apathique.
+- Syn: indifférent - indolent - inerte - lymphatique - mou - nonchalant - passif
+
+### Aphone 
+- Def: Qui est privé de l'usage de la voix ou dont la voix est très affaiblie.
+
+### Boulimique 
+- Def: Atteint d’un désir ardent et répétitif d'obtenir ou de faire quelque chose ; fringale, frénésie
+- Ex; Être saisi d'une boulimie de lecture.
+
+### Curatif
+- Def: Propre à la guérison ou au traitement d'une maladie.
+
+### Débile 
+- Def: 1. Qui est faible de constitution, qui manque de force
+- Syn: fragile - défaillant - faible
 
 ## Semaine du 15/11
 
