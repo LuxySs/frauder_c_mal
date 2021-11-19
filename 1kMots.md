@@ -1136,7 +1136,7 @@
 - Ex: Atrophie de l'intelligence. L'atrophie progressive d'une industrie.
 - Syn: Amoindrissement - déchéance - dégradation - dépérissement - diminution
 
-### Cérite
+### Cécité
 - Def: 
 	1. État d'une personne aveugle.
 	2. Aveuglement de l'esprit.
