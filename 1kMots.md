@@ -25,7 +25,7 @@
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
     * :x: pour Miray
 14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
-    * :x: pour Kaloyan
+    * :white_check_mark: par Kaloyan
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
     * :x: pour Nilufer marquée comme 31/02 dans la liste
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
@@ -1357,6 +1357,126 @@
 ## Semaine du 17/01
 
 ## Semaine du 24/01
+
+### Circonspection:
+- Def: Prudence qui incite à ne négliger aucune circonstance avant d'agir
+- Ex: Examiner un projet avec circonspection
+- Syn: méfiance - précaution 
+
+### Dilettante:
+- Def: Personne qui pratique une activité, un art pour le plaisir 
+- Syn: connaisseur - curieux
+
+### Inadvertance:
+- Def: Faute commise par inattention
+- Syn: négligence
+
+### Masochisme:
+- Def 1: Déviation sexuelle, liée à une pulsion d'autodestruction, dans laquelle le sujet ne trouve le plaisir que dans la douleur physique et les humiliations qui lui sont infligées
+- Def 2: Comportement de quelqu'un qui semble rechercher les situations où il souffrira, sera mal, en difficulté
+
+### Mijaurée:
+- Def: Une jeune fille ou une femme prétentieuse, ridicule ou maniérée
+
+### Morgue:
+- Def: Lieu où sont déposés les cadavres dont l'identité n'a pas été établie et ceux qui doivent subir une expertise médico-légale
+
+### Opiniâtreté:
+- Def: Volonté, persévérance tenace, acharnement, obstination
+- Syn: fermeté - ténacité
+
+### Propension:
+- Def: Inclination, tendance naturelle à faire quelque chose 
+- Ex: Une nette propension à l'alcoolisme
+- Syn: disposition
+
+### Urbanité:
+- Def: Politesse, courtoisie
+- Syn: civilité - éducation - savoir-vivre
+
+### Acariâtre:
+- Def: D'une humeur difficile
+- Ex: Un caractère acariâtre
+- Syn: acrimonieux 
+
+### Affecté(e):
+- Def 1: Toucher, atteindre, concerner quelqu'un ou quelque chose, en parlant de quelque chose de pénible
+- Def 2: Exercer sur quelqu'un, une partie du corps
+
+### Altier(ère):
+- Def: Qui manifeste un dédain méprisant
+- Syn: arrogant - fier - hautain
+
+### Avisé(e):
+- Def: Qui agit avec à-propos et réflexion.
+- Syn: clairvoyant -averti
+
+### Belliqueux(se):
+- Def: Qui aime la guerre, qui la recherche
+- Ex: Chants belliqueux
+- Syn: batailleur - guerrier
+
+### Bilieux(se):
+- Def: Soucieux, prompt à s'inquiéter
+- Syn: anxieux -pessimiste -inquiet -ombrageux
+
+### Cabotin(e):
+- Def: Artiste médiocre, qui estime son talent au-dessus de sa valeur
+- Syn: comédien
+
+### Candide:
+- Def: Personne qui possède la qualité d'une âme pure et innocente
+- Ex: C'est une jeune personne candide et sincère. Elle ne voit pas le danger chez cet homme.
+- Syn: innocent -naif
+
+### Casanier(ère):
+- Def: Qui aime à demeurer chez soi ; qui manifeste cet état d'esprit 
+- Syn: sédentaire
+
+### Condescendant(e):
+- Def: Qui montre de la condescendance 
+- Syn: arrogant - hautain 
+
+### Crédule:
+- Def: Qui croit trop facilement, trop naïvement ce qu'on lui dit
+- Syn: confiant
+
+### Éclectique:
+- Def: Qui n'a pas de goût exclusif, ne se limite pas à une catégorie d'objets
+- Syn: diversifié -divers
+
+### Égrillard(e):
+- Def: Qui s'exprime librement, sans encombre
+- Syn: libre -osé
+
+### Facétieux(se):
+- Def:  Enclin à faire des cachotteries, des plaisanteries, à taquiner les gens qui l'entourent
+- Syn: drôle -comique
+
+### Fantasque:
+- Def: Qui est sujet à des fantaisies, à des caprices
+- Ex: Un esprit fantasque
+- Syn: bizarre - capricieux
+
+### Faraud(e):
+- Def: Qui fait le fier, qui tire vanité d'avantages insignifiants
+- Ex: Faire le faraud
+- Syn: avantageux - fier - prétentieux 
+
+### Flegmatique:
+- Def: Qui est calme, qui domine ses réactions
+- Ex: Un caractère flegmatique
+- Syn: imperturbable - posé - tranquille
+
+### Fruste:
+- Def: Dont le relief est rude, grossier, la surface rugueuse
+- Ex: Un marbre encore fruste
+- Syn: brut - naturel
+
+### Goguenard(e):
+- Def: Qui manifeste une raillerie contenue, une certaine insolence narquoise ; moqueur
+- Ex: Regarder quelqu'un d'un air goguenard
+- Syn: ironique - moqueur - narquois
 
 ## Semaine du 31/01
 
