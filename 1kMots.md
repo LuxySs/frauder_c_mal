@@ -21,7 +21,7 @@
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
      * :white_check_mark: par Jeremy, marquée comme 15/01 dans la liste
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
-    * :x: pour Alex
+    * :white_check_mark: par Alex
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
     * :x: pour Miray
 14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
