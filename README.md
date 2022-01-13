@@ -36,3 +36,5 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 - Lara
 - César
 - Jeremy
+- Kaloyan
+- Alex
