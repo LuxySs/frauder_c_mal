@@ -1313,7 +1313,7 @@
 - Def: Propre aux sens, émanant des sens
 - Syn: Érotique
 
-### Sporifique:
+### Soporifique:
 - Def: Qui provoque le sommeil.
 - Syn: Endormant, ennuyeux.
 
