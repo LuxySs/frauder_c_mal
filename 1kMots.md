@@ -1354,6 +1354,106 @@
 
 ## Semaine du 10/01
 
+### Antidote : 
+- Def: Substance capable d'empêcher un corps d’exercer ses effets toxiques, remède contre un mal.
+- Ex: Antidote contre un poison.
+
+### Conscience : 
+- Def: Connaissance que chacun a de son existence et celle du monde extérieur, de la réalité./ Faculté qui pousse à porter un jugement de valeur sur ses propres actes.
+- Ex: La conscience de ses actes.
+
+### Dément :
+- Def: Atteint de démence, fou, déraisonnable.
+- Ex: Une personne démente, des yeux déments.
+
+### Escient : 
+- Def: Connaissance que l'on a de quelque chose, de ce qu'on fait.
+- Ex: À bon escient.
+
+### Faculté : 
+- Def: Aptitude particulière à quelqu'un, fonction propre à un être animé, possibilité, capacité à faire quelque chose.
+- Ex: J’admire sa faculté d'adaptation.
+
+### Fantasme : 
+- Def: Représentation imaginaire traduisant des désirs plus ou moins conscients.
+- Ex: Être dominé par ses fantasmes.
+
+### For intérieur : 
+- Def: Au fond de moi-même, en ma conscience, dans le secret de sa conscience, du plus profond de la conscience.
+- Ex: En mon for intérieur, je suis sûr qu'il réussira.
+
+### Inconscient : 
+- Def: Qui n'a pas conscience de quelque chose de son existence de la réalité évanouie qui ne se rend pas compte de quelque chose
+- Ex: Il est inconscient de l'effet qu'il a sur les gens.
+
+### Intelligent : 
+- Def: Qui est capable de concevoir les rapports entre les choses et de résoudre des problèmes par différentes façons qui fait preuve de jugement de bon sens.
+- Ex: Ce scientifique est très intelligent.
+
+### Introspection : 
+- Def: Observation méthodique de ses états de conscience et de ses processus mentaux et émotionnels. Regard attentif sur soi.
+- Ex: Pour m'orienter dans mes études, j'ai réalisé une introspection.
+
+### Jugement : 
+- Def: Action, fait de se faire une opinion sur quelqu'un ou quelque chose. Appréciation. /Décision rendue par un tribunal. Action de juger.
+- Ex: Ton jugement ne m'importe point
+
+### Mentalité : 
+- Def: Façon de penser, comportement moral./ Ensemble des manières d'agir, des habitudes intellectuelles, des croyances et des dispositions psychiques d'un groupe.
+- Ex: La mentalité des personnes évolue au fil du temps.
+
+### Moi : 
+- Def: Ce qui constitue l'individualité, la personnalité consciente du sujet. Personnalité s’affirmant en excluant les autres.
+- Ex: Son moi est tout ce qui l'intéresse.
+
+### Opinion : 
+- Def: Jugement, avis, sentiments émis sur un sujet, des faits, ce qu'il en pense.
+- Ex: Mon opinion quant à la vaccination est différente que celle de la plupart des Bulgares.
+
+### Phobie : 
+- Def: Peur irraisonnée, instinctive et obsédante.
+- Ex: Il a peur des araignées ; c'est carrément une phobie.
+
+### Préjugé : 
+- Def: Opinion, jugement formé à l'avance sans examen préconçu, souvent imposé par le milieu, l'éducation et des critères personnels.
+- Ex: Avoir un préjugé contre quelqu'un.
+
+### Psychologie : 
+- Def: Ensemble des idées, des sentiments, des caractères propres à quelqu'un, à son groupe./ Discipline, connaissance des activités mentales et des comportements humains.
+- Ex: La psychologie humaine est parfois irrationnelle.
+
+### Psychoses : 
+- Def: Changement de la personnalité bouleversant les rapports avec la réalité d'une personne ou groupe, obsession.
+- Ex: Psychose de la guerre.
+
+### Pulsion : 
+- Def: Action influencé par l'inconscient.
+- Ex: Il est dur de contrôler ses pulsions, surtout lors d'angoisse.
+
+### Résilience : 
+- Def: Capacité à supporter un stress, une épreuve, un traumatisme.
+- Ex: La résilience humaine est plus importante que l'on ne le croit.
+
+### Raison : 
+- Def: Faculté de juger et se conduire selon les principes .
+- Ex: Il faut faire preuve de raison ; nous ne sommes pas des sauvages.
+
+### Sagacité : 
+- Def: Pénétration, vivacité d'esprit qui fait découvrir et comprendre les choses les plus difficiles.
+- Ex: La sagacité des enquêteurs permet de retrouver le voleur.
+
+### Spéculation : 
+- Def: Théorie, construction abstraite, commentaire, recherche arbitraire et invérifiable.
+- Ex: Je n'ai pas vu la fin de ce film, je ne cesse de faire des spéculations à propos de sa fin.
+
+### Subconscient : 
+- Def: État psychique qui influence le comportement sans en être conscient.
+- Ex: L’instinct est l'intelligence du subconscient.
+
+### Vacuité : 
+- Def: État de ce qui est vide./ Vide intellectuel, absence de valeur.
+- Ex: La vacuité d'une existence.
+
 ## Semaine du 17/01
 
 ## Semaine du 24/01
