@@ -23,7 +23,7 @@
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
     * :white_check_mark: par Alex
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
-    * :x: pour Miray
+    * :white_check_mark: par Miray
 14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
     * :white_check_mark: par Kaloyan
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
@@ -1105,7 +1105,7 @@
     - Def: En parlant de Dieu, fixer de toute éternité la fin dernière de la créature humaine.
 2.
     - Def: Vouer quelqu'un d'avance à un rôle, à une action 
-	- Ex: Rien ne le prédestinait à cet emploi.
+    - Ex: Rien ne le prédestinait à cet emploi.
 
 ### Être prédestiné:
 1.
@@ -1455,6 +1455,92 @@
 - Ex: La vacuité d'une existence.
 
 ## Semaine du 17/01
+
+### Vie intérieure
+- Def: mouvement qui se passe à l'intérieur de nous, le bruissement de nos pensées, nos désirs, nos sensations, nos émotions, nos espérances, etc.
+- Ex: avoir des problèmes dans sa vie intérieure
+
+### Cérébral
+- Def: Qui concerne l'esprit, la pensée, le cerveau
+- Ex: Activité cérébrale
+
+### Égocentrique
+- Def: Qui rapporte tout à soi, qui se croit le centre du monde
+- Ex: Une personne égocentrique
+
+### Intellectuel
+1.
+    - Def: Qui relève de l’intelligence
+2.
+	- Def: Qui a un goût prononcé pour les choses de l’esprit
+    - Ex: La vie intellectuelle
+
+### Ludique
+- Def: Relatif au jeu
+- Ex: Activité ludique des enfants
+
+### Mental
+1.
+    - Def: Qui se fait dans l’esprit seulement, sans expression orale ou écrite
+    - Ex: Calcul mental
+2.
+    - Def: Qui a rapport aux fonctions intellectuelles
+    - Ex: Les processus mentaux
+
+### Morbide
+1.
+    - Def: Relatif à la maladie
+    - Ex: État morbide
+2.
+    - Def: Anormal, dépravé
+    - Ex: Imagination morbide
+
+### Obtus
+- Def: Qui manque de pénétration, de finesse, borné
+- Ex: Une intelligence obtuse
+
+### Onirique
+- Def: Relatif au rêve, qui rappelle, évoque le rêve
+- Ex: Littérature onirique
+
+### Psychique
+- Def: Qui concerne l’esprit, la pensée
+- Ex: La maladie organique à cause psychique
+
+### Suggestif
+1.
+    - Def: Qui a le pouvoir de suggérer des idées, des sentiments
+2.
+    - Def: Qui suggère des idées érotiques
+    - Ex: L’oeuvre suggestive
+
+### Subjectif
+1.
+    - Def: Qui varie selon la personnalité, les principes et les goûts de chacun
+    - Ex: Mon avis sur cette robe est subjectif, car je n’aime pas le noir.
+2.
+    - Def: Relatif au sujet pensant
+    - Ex: Jugement subjectif en fonction de ses idées
+
+### Appréhender
+1.
+    - Def: Saisir quelque chose par l’entendement, la pensée
+    - Ex: Appréhender la complexité du réel
+2.
+    - Def: Craindre la réalisation d’une éventualité fâcheuse, redouter
+    - Ex: J’appréhende de la revoir
+
+### Entendre
+- Def: Percevoir par l’ouïe
+- Ex: J’entends pas les sons très aigus
+
+### Se figurer
+1.
+    - Def: Se représenter quelque chose, quelqu’un par l’imagination
+    - Ex: Figurez-vous d’une sorte de nain
+2.
+    - Def: S’imaginer que, croire que
+    - Ex: Il se figure que je vais laisser faire ça
 
 ## Semaine du 24/01
 
