@@ -19,7 +19,7 @@
 9. [Semaine du 08/11](#Semaine-du-0811) : Atrophie -> Débile
     * :white_check_mark: par César
 11. [Semaine du 15/11](#Semaine-du-1511) : Débilitant -> Sustenter
-     * :white_check_mark: par Jeremy, marquée comme 15/01 dans la liste
+    * :white_check_mark: par Jeremy, marquée comme 15/01 dans la liste
 12. [Semaine du 10/01](#Semaine-du-1001) : Antidote -> Vacuité
     * :white_check_mark: par Alex
 13. [Semaine du 17/01](#Semaine-du-1701) : Vie intérieure -> Se figurer
@@ -29,7 +29,7 @@
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
     * :x: pour Nilufer marquée comme 31/02 dans la liste
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
-    * :x: pour Madeleine
+    * :white_check_mark: par Madeleine
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
     * :x: pour Louise
 18. [Semaine du 21/02](#Semaine-du-2102) : Avilissement -> Ignoble
@@ -1667,6 +1667,156 @@
 ## Semaine du 31/01
 
 ## Semaine du 07/02
+
+### Abnégation:
+- Def: Sacrifice volontaire de soi même, de son intérêt
+- Ex: Il y a la magnifique abnégation et l'héroïsme des pompiers.
+- Syn: sacrifice - dévouement - désintéressement
+
+### Bienséance:
+- Def: Conduite sociale en accord avec les usages, respect de certaines formes
+- Ex: Cela signifie se moquer de tout le monde, oublier les règles de bienséances
+- Syn: correction - savoir-vivre
+
+### Bienveillance:
+- Def: Disposition favorable à l'égard de qqn
+- Ex: Je vous remercie de votre bienveillance.
+- Syn: bonté - indulgence
+
+### Bonhomie:
+- Def: Simplicité dans les manières, unie à la bonté du cœur.
+- Ex: Le sourire et sa bonhomie
+- Syn: simplicité - douceur - bonté
+
+### Civilité:
+- Def: Démonstration de politesse
+- Ex: Présenter ses civilités à qqn, ses compliments.
+- Syn: hommage - salutation
+
+### Clémence:
+1.
+    - Def: Vertu qui consiste, de la part de qui dispose d'une autorité, à pardonner les offenses et à adoucir les châtiments.
+    - Ex: Un acte de clémence
+    - Syn: indulgence - magnamité
+2.
+    - Ex: la clémence de la température
+    - Syn: douceur
+
+### Coeur:
+1.
+    - Def: Organe central de l'appareil circulatoire
+    - Ex: Opération chirurgicale à cœur ouvert
+2.
+    - Def: Siège du désir, de l'humeur.
+    - Ex: De bon cœur
+    - Syn: bonté
+
+
+### Commerce:
+- Def: Opération de vente, ou d'achat et de revente d'une marchandise, d'une valeur.
+- Ex: Organisation mondiale du commerce
+- Syn: affaire - magasin - marketing - fréquentation
+
+### Constance:
+1.
+    - Def: Force morale, courage.
+    - Ex: Elle montrait une égalité d'humeur et une constance
+2.
+    - Def: Persévérance dans ce que l'on entreprend.
+    - Ex: La constance en amour
+    - Syn: fidelité
+3.
+    - Def: Caractère durable, constant.
+    - Ex: Elle demande de la constance et du temps.
+    - Syn: continuité - persistance - permanence
+
+### Dérérence:
+- Def: Considération très respectueuse que l'on témoigne à qqn.
+- Ex: Traiter qqn avec déférence.
+- Syn: considération - égard
+
+### Désintéressement:
+- Def: Détachement de tout intérêt personnel.
+- Ex: L'équité et le désintéressement sont deux qualités qui nous sont communes.
+- Syn: générosité - altruisme
+
+### Éthique:
+- Def: Qui concerne la morale.
+- Ex: Des jugements éthiques
+- Syn: moral
+
+### Émulation:
+- Def: Sentiment qui porte à égaler ou à surpasser qqn.
+- Ex: Il y a une véritable émulation pour faire vivre tout ce petit monde
+- Syn: concurrence - compétition
+
+### Intégrité:
+1.
+    - Def: État d'une chose qui demeure intacte, entière
+    - Ex: L'intégrité du territoire.
+    - Syn: totalité
+2.
+    - Def: Honnêteté, probité absolue.
+    - Ex: Le problème de l'authenticité semble pouvoir être tout aussi bien résolu que celui de l'intégrité.
+    - Syn: honnêteté
+
+### Mansuétude:
+- Def: Disposition à pardonner généreusement.
+- Ex: Juger qqn avec mansuétude.
+- Syn: bonté - indulgence
+
+### Principe:
+1.
+    - Def: Cause première active
+    - Ex: Connaissance, recherche des principes 
+    - Syn: fondement - origine - source
+2.
+    - Def: Proposition fondamentale
+    - Ex: Le principe d'Archimède
+    - Syn: hypothèse
+3.
+    - Def: Règle d'action s'appuyant sur un jugement de valeur et constituant un modèle ou un but.
+    - Ex: Punir un enfant pour le principe
+    - Syn: loi - précepte
+4.
+    - Def: Les règles morales auxquelles une personne, un groupe est attaché.
+    - Ex: Avoir des principes
+    - Syn: morale
+
+### Probité:
+- Def: Honnêteté scrupuleuse.
+- Ex: Question probité
+- Syn: intégrité
+
+### Rectitude:
+- Def: Qualité de ce qui est droit, rigoureux.
+- Ex: La rectitude d'un raisonnement
+- Syn: droiture - justesse
+
+### Tact:
+- Def: Qualité qui permet d'apprécier intuitivement ce qu'il convient de dire, de faire ou d'éviter dans les relations humaines
+- Ex: Avoir du tact
+- Syn: délicateese - doigté - intuition
+
+### Tempérance:
+- Def: Modération dans les plaisirs, notamment dans la consommation d'alcool et de nourriture
+- Ex: Le règne du café est celui de la tempérance.
+- Syn: mesure - modération - continence - frugalité
+
+### Vertu:
+1.
+    - Def: Force morale avec laquelle l'être humain tend au bien
+    - Syn: honnêteté - moralité
+2.
+    - Def: Principe actif. 
+    - Ex: La vertu réparatrice du temps
+    - Syn: pouvoir - propriété
+
+### Zèle:
+- Def: rdeur à servir une personne ou une cause à laquelle on est dévoué.
+- Ex: Travailler avec zèle.
+- Syn: dévouement
+
 
 ## Semaine du 14/02
 
