@@ -27,7 +27,7 @@
 14. [Semaine du 24/01](#Semaine-du-2401) : Circonspection -> Goguenard
     * :white_check_mark: par Kaloyan
 15. [Semaine du 31/01](#Semaine-du-3101) : Gourmé -> Versatile
-    * :x: pour Nilufer marquée comme 31/02 dans la liste
+    * :white_check_mark: par Nilüfer marquée comme 31/02 dans la liste
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
     * :white_check_mark: par Madeleine
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
@@ -1665,6 +1665,130 @@
 - Syn: ironique - moqueur - narquois
 
 ## Semaine du 31/01
+
+### Gourmé(e)
+- Def: Qui est guindé, affecté, qui manque de naturel
+- Ex: « Un air gourmé »
+
+### Grivois(e)
+- Def: Qui tient des propos assez osés
+- Ex: « Propos grivois »
+
+### Guindé(e)
+- Def: Grave, raide dans sa façon de se comporter
+- Ex: « Une tenue guindée »
+
+### Imbu(e)
+- Def: Qui est imprégné d'opinions, de sentiments
+- Ex: « Être imbu de ses connaissances »
+
+### Madré(e)
+- Def: Qui est malin, rusé
+
+### Martial(e)
+- Def: Se dit d'une attitude résolue, décidée, qui cherche à en imposer
+- Ex: « Un air martial »
+
+### Mièvre
+- Def: Gracieux mais un peu fade
+- Ex: « Une peinture assez mièvre »
+- Syn: délicat - gentil
+
+### Misanthrope
+- Def: Peu sociable, aime la solitude, aversion pour le genre humain
+
+### Misogyne
+- Def: Qui hait ou méprise les femmes
+
+### Mythomane
+- Def: Qui ne cesse de mentir, d'inventer des histoires
+- Syn: bluffeur, menteur
+
+### Narcissique
+- Def: Qui est en admiration devant sa propre personne
+
+### Narquois(e)
+- Def: Moqueur, assez ironique
+- Syn: Ironique, sarcastique
+- Ex: Un air, un sourire narquois
+
+### Obséquieux(se)
+- Def: Excessivement poli, par servilité ou hypocrisie
+- Ex: un ton/sourire obséquieux
+
+### Ombrageux(se)
+- Def: Qui est susceptible, défiant, inquiet
+- Syn: méfiant, pointilleux
+- Ex: Un caractère ombrageux
+
+### Perspicace
+- Def: Qui voit, saisit de façon pénétrante des choses difficiles
+- Syn: avisé, clairvoyant
+- Ex: Un observateur peu perspicace
+
+### Pétulant(e)
+- Def: Qui manifeste un dynamisme extrême
+- Ex: Débordant, dynamique, pétillant
+
+### Placide
+- Def: Qui garde son calme en toute circonstance
+- Syn: serein, tranquille
+
+### Prude
+- Def: Qui affecte une vertu austère, une pudeur excessive
+- Syn: pudique
+
+### Pudibond(e)
+- Def: Qui pousse à l'excès la pudeur, la retenue devant ce qui évoque la sexualité
+- Ex: Une réaction pudibonde
+
+### Pudique
+1.
+    - Def: Réservé dans ses manières, dans l'expression de ses sentiments
+	- Syn: délicat - discret – modeste
+2.
+    - Def: Qui exprime les choses avec discrétion
+    - Ex: Une remarque pudique sur ses difficultés financières.
+
+### Rassis(e)
+- Def: Qui est pondéré, réfléchi, à qui l'on peut demander avis et conseils
+
+### Réaliste
+- Def: Qui sait voir la réalité et agir en conséquence
+
+### Rétif(ve)
+- Def: Qui s'oppose à toute discipline/Se dit d'un esprit qui ne répond pas aux sollicitations
+- Syn: désobéissant, rebelle
+- Ex: Un enfant rétif qui n'obéit jamais.
+
+### Rustaud(e)
+- Def: Qui a une allure paysanne, des manières gauches ou grossières, qui ignore la politesse et les usages.
+- Def: (familier)
+
+### Revêche
+- Def: D'un abord rude, hargneux, grognon
+- Ex: Un visage revêche
+
+### Taciturne
+- Def: qui par nature parle peu, reste volontiers silencieux
+- Ex: introverti - impénétrable
+
+### Téméraire
+- Def: Audacieux avec imprudence, irréfléchi
+- Ex: Être téméraire dans ses jugements.
+
+### Timoré(e)
+- Def: Qui n'ose rien entreprendre, qui craint les responsabilités, des risques
+- Syn: indécis, craintif, timide
+
+### Velléitaire
+- Def: Qui n'a que des intentions faibles, ne se décide pas à agir
+- Ex: versatile, inconstant
+
+### Versatile
+- Def: Qui change facilement d'opinion, qui se montre instable dans ses opinions.
+- Syn: incertain, inconstant, instable
+- Ex: Cet homme politique est versatile.
 
 ## Semaine du 07/02
 
