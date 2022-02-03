@@ -1735,7 +1735,7 @@
 - Syn: serein, tranquille
 
 ### Prude
-- Def: Qui affecte une vertu austère, une pudeur excessive
+- Def: Qui éprouve de la gène face à des choses sexuelles
 - Syn: pudique
 
 ### Pudibond(e)
