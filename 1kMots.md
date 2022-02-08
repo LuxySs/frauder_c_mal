@@ -31,7 +31,7 @@
 16. [Semaine du 07/02](#Semaine-du-0702) : Abnégation -> Zèle
     * :white_check_mark: par Madeleine
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
-    * :x: pour Louise
+    * :white_check_mark: par Louise
 18. [Semaine du 21/02](#Semaine-du-2102) : Avilissement -> Ignoble
     * :x: pour Lou
 19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
@@ -1943,6 +1943,86 @@
 
 
 ## Semaine du 14/02
+
+### Affable
+- Def: qui accueille aimablement les gens
+- Ex: un sourire affable 
+- Syn: accueillant, aimable
+
+### Auguste
+- Def: majestueux, imposant
+- Ex: un geste auguste
+- Syn: digne, grand, noble
+
+### Chaste
+- Def: qui exclut les rapports sexuels
+- Ex: Un couple chaste
+- Syn: sage, vertueux
+
+### Conséquent
+- Def: qui agit selon la logique et la raison
+- Ex: un raisonnement conséquent
+- Syn: raisonnable
+
+### Courtois
+- Def: qui parle et agit avec une politesse raffinée, affable
+- Ex: un réceptionniste courtois
+- Syn: affable, aimable, avenant
+
+### Equitable
+- Def: juste, partial, qui se conforme à la justice
+- Ex: un partage équitable
+- Syn: impartial, intègre
+
+### Humanitaire
+- Def: qui s’intéresse au bien de l’humanité, qui cherche à améliorer la condition de l’homme
+- Ex: une organisation humanitaire
+- Syn: altruiste, philanthrope
+
+### Intègre
+- Def: qui est d’une grande honnêteté, qu’on ne peut corrompre
+- Ex: un politicien intègre
+- Syn: équitable, honnête, impartial
+
+### Magnanime
+- Def: qui fait preuve de générosité, de mansuétude, qui pardonne les fautes d’autrui
+- Ex: un jugement magnanime
+- Syn: clément, généreux
+
+### Méticuleux
+- Def: qui apporte beaucoup d’attention, de soin à ce qu’il fait
+- Ex: un travail méticuleux
+- Syn: consciencieux, minutieux
+
+### Philanthrope
+- Def: qui cherche à améliorer la condition matérielle et morale des hommes
+- Ex: un millionnaire philanthrope
+- Syn: altruiste, charitable
+
+### Policé
+- Def: qui est parvenu à un certain degré de civilisation, d’éducation
+- Ex: une société policée
+- Syn: civilisé, éduqué, distingué
+
+### Pondéré
+- Def: qui est bien équilibré, calme et modéré dans ses opinions et ses jugements
+- Ex: un raisonnement pondéré
+- Syn: raisonnable, conséquent
+
+### Stoïque
+- Def: se dit d’un comportement qui dénoté la fermeté devant la douleur et le malheur
+- Ex: une attitude stoïque
+- Syn: austère, courageux, dur
+
+### Tolérant
+- Def: qui fait preuve de tolérance et de compréhension envers les opinions et croyances d’autrui
+- Ex: un parti tolérant
+- Syn: compréhensif, indulgent laxiste
+
+### S’amender
+- Def: se corriger, devenir meilleur
+- Ex: s’amender après avoir commis un crime
+- Syn: s’améliorer, se redresser, se rectifier
 
 ## Semaine du 21/02
 
