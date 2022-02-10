@@ -1937,7 +1937,7 @@
     - Syn: pouvoir - propriété
 
 ### Zèle:
-- Def: rdeur à servir une personne ou une cause à laquelle on est dévoué.
+- Def: Ardeur à servir une personne ou une cause à laquelle on est dévoué.
 - Ex: Travailler avec zèle.
 - Syn: dévouement
 
