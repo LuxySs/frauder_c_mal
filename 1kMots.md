@@ -1920,7 +1920,7 @@
 ### Tact:
 - Def: Qualité qui permet d'apprécier intuitivement ce qu'il convient de dire, de faire ou d'éviter dans les relations humaines
 - Ex: Avoir du tact
-- Syn: délicateese - doigté - intuition
+- Syn: délicatesse - doigté - intuition
 
 ### Tempérance:
 - Def: Modération dans les plaisirs, notamment dans la consommation d'alcool et de nourriture
