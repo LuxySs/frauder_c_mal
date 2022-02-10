@@ -1854,7 +1854,7 @@
     - Ex: Elle demande de la constance et du temps.
     - Syn: continuité - persistance - permanence
 
-### Dérérence:
+### Déréfence:
 - Def: Considération très respectueuse que l'on témoigne à qqn.
 - Ex: Traiter qqn avec déférence.
 - Syn: considération - égard
