@@ -33,7 +33,7 @@
 17. [Semaine du 14/02](#Semaine-du-1402) : Affable -> S'amender
     * :white_check_mark: par Louise
 18. [Semaine du 21/02](#Semaine-du-2102) : Avilissement -> Ignoble
-    * :x: pour Lou
+    * :white_check_mark: pour Lou (mais faite par Martin en vrai)
 19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
     * :x: pour Sara
 20. [Semaine du 14/03](#Semaine-du-1403) : Affectivité -> Sérénité
