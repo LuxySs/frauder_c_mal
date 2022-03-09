@@ -2026,6 +2026,93 @@
 
 ## Semaine du 21/02
 
+### Avilissement
+- Def: Action d'avilir, fait de s'avilir, de se dégrader
+
+### Compromission
+- Def: Fait d'exposer quelqu'un, de s'exposer à un préjudice moral ou d'engager sa réputation dans une affaire douteuse 
+
+### Cynisme
+- Def: mépris effronté des convenances et de l'opinion qui pousse à exprimer sans ménagements des principes contraires à la morale, à la norme sociale. 
+
+### Délation
+- Def: Dénonciation intéressée, méprisable, inspirée par la vengeance, la jalousie ou la cupidité.
+
+### Duplicité
+- Def: Caractère de quelqu'un qui ne se montre pas tel qu'il est, qui présente intentionnellement une apparence différente de ce qu'il est réellement
+
+### Fatuité 
+- Def: Contentement excessif de soi qui se manifeste par une vanité insolente. 
+
+### Gloriole
+- Def: Vaine gloire qui se tire de petites choses
+
+### Importun
+- Def: Qui arrive mal à propos, qui gêne, fatigue, ennuie par sa présence
+
+### Imposteur
+- Def: Personne qui trompe par de fausses apparences, qui se fait passer pour quelqu'un d'autre. 
+
+### Impudence
+- Def: Caractère de celui ou de ce qui est impudent  (arrogant) 
+
+### Infamie 
+- Def: État de honte, d'ignominie
+
+### Malignité
+- Def: Tendance à faire le mal en se servant des ressources de l'intelligence et de l'imagination.
+
+### Malversation
+- Def: Action de détourner, de dissimuler tout ou partie des fonds ou des actifs dont on a la garde.
+
+### Outrage 
+- Def: Offense extrêmement grave, constituant une atteinte à l'honneur, à la dignité
+
+### Outrecuidance
+- Def: Confiance excessive en soi-même // Désinvolture à l'égard des autres
+
+### Perfidie
+- Def: Caractère de quelqu'un, de sa conduite qui est perfide  (déloyale) 
+
+### Perversion 
+- Def: Action de corrompre une personne saine ou vulnérable
+
+### Sadisme 
+- Def: Plaisir pris à faire souffrir, jouissance tirée du malheur des autres.
+
+### Suffisance 
+- Def: Sentiment d'une très haute valeur de soi-même, de supériorité à l'égard d'autrui
+
+### Tare    
+- Def: Grave défaut qui porte préjudice à un groupe, une institution 
+
+### Vergogne
+- Def: sentiment de honte
+
+### Vice    
+- Def: Penchant particulier pour quelque chose que la religion, la morale, la société réprouvent
+
+### Abject  
+- Def: Qui inspire le dégoût, le mépris, par sa bassesse, sa dégradation morale
+
+### Chauvin 
+- Def: Qui a ou manifeste un patriotisme excessif, aveugle, intransigeant ou agressif 
+
+### Cupide  
+- Def: Inspiré par la cupidité, qui la manifeste
+
+### Dépravé 
+- Def: Personne pervertie, détournée du bien, des dispositions morales considérées comme normales.
+
+### Hâbleur 
+- Def: Qui a l'habitude de parler beaucoup et de se vanter, qui cherche à donner une haute idée de sa personne. 
+
+### Ignare  
+- Def: Qui est scandaleusement ignorant
+
+### Ignoble 
+- Def: Qui inspire du dégoût, de la répulsion, qui est très laid, très mauvais ou très sale
+
 ## Semaine du 07/03
 
 ## Semaine du 14/03
