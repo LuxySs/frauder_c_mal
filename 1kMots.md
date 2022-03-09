@@ -2115,6 +2115,84 @@
 
 ## Semaine du 07/03
 
+### Impénitent
+- Def: Qui persiste dans ses habitudes, qui ne veut pas changer sa manière d'être
+
+### Inique
+- Def: Qui manque à l'équité, qui est contraire à la justice
+
+### Irascible
+- Def: Qui est prompt à s'irriter
+
+### Irrévérencieux
+- Def: Qui manque de respect.
+
+### Ladre
+- Def: Qui est excessivement avare.
+
+### Machiavélique
+- Def: Qui est d'une grande perfidie, d'une scélératesse tortueuse (diabolique) 
+
+### Maléfique
+- Def: Qui a une influence malfaisante et occulte
+
+### Opportuniste
+- Def: Qui agit avec opportunisme
+
+### Parjure
+- Def: Qui fait un faux serment ou viole son serment. (infidèle)
+
+### Partial
+- Def: Qui prend parti pour ou contre quelqu'un, une opinion, qui juge sans souci d'objectivité
+
+### Partisan
+- Def: Personne qui est attachée à une cause, à un parti, à une doctrine, etc., dont elle prend la défense
+
+### Pédant
+- Def: Qui est propre aux pédants, prétentieux, doctoral
+
+### Pernicieux
+- Def: Qui est moralement mauvais, nuisible
+
+### Pleutre
+- Def: Homme sans courage ni dignité. 
+
+### Pusillanime
+- Def: Qui manque d'audace, de courage. 
+
+### Répréhensible
+- Def: Qui mérite d'être repris, blâmé
+
+### Scélérat
+- Def: Qui manifeste des sentiments ou des intentions criminels et perfides
+
+### Sectaire
+- Def: Se dit de quelqu'un qui, par intolérance ou étroitesse d'esprit, se refuse à admettre les opinions différentes de celles qu'il professe
+
+### Vénal
+- Def: Qui est prêt à se vendre par intérêt, que l'on peut corrompre. 
+
+### Veule
+- Def: Qui manque d'énergie, de volonté et de courage, qui est faible, voire lâche. 
+
+### Vindicatif
+- Def: Qui est porté à se venger. 
+
+### Volage
+- Def: Dont les sentiments sont changeants, qui est peu fidèle en amour.  (capricieux) 
+
+### Abuser
+- Def: Dont les sentiments sont changeants, qui est peu fidèle en amour. 
+
+### Duper
+- Def: Faire prendre à quelqu'un le faux pour le vrai
+
+### Léser
+- Def: Faire tort à quelqu'un, à ses intérêts, leur porter atteinte
+
+### Lésiner
+- Def: Regarder aux dépenses, épargner sur quelque chose d'une façon mesquine (gratter)
+
 ## Semaine du 14/03
 
 ## Semaine du 21/03
