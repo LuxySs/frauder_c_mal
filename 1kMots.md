@@ -2182,7 +2182,8 @@
 - Def: Dont les sentiments sont changeants, qui est peu fidèle en amour.  (capricieux) 
 
 ### Abuser
-- Def: Dont les sentiments sont changeants, qui est peu fidèle en amour. 
+- Def: Abuser de… user mal, avec excès
+       Abuser d'une personne la violer.
 
 ### Duper
 - Def: Faire prendre à quelqu'un le faux pour le vrai
