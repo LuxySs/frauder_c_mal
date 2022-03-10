@@ -2137,7 +2137,8 @@
 - Def: Qui a une influence malfaisante et occulte
 
 ### Opportuniste
-- Def: Qui agit avec opportunisme
+- Def: Qui agit avec opportunisme.
+       Attitude consistant à régler sa conduite selon les circonstances du moment, que l'on cherche à utiliser toujours au mieux de ses intérêts.
 
 ### Parjure
 - Def: Qui fait un faux serment ou viole son serment. (infidèle)
