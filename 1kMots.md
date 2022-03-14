@@ -43,9 +43,9 @@
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
     * :x: pour Guccio
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
-    * :x: 
+    * :x: pour Astrid
 24. [Semaine du 25/04](#Semaine-du-2504) : Acception -> Se référer
-    * :x:
+    * :x: pour Alyssa
 
 ## Semaine du 06/09
 
