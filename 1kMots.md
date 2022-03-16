@@ -37,7 +37,7 @@
 19. [Semaine du 07/03](#Semaine-du-0703) : Impénitent -> Lésiner
     * :white_check_mark: pour Sara (mais aussi faite par Martin le big crackito en vrai)
 20. [Semaine du 14/03](#Semaine-du-1403) : Affectivité -> Sérénité
-    * :x: pour Diane
+    * :white_check_mark: par Diane
 21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
     * :x: pour Apolline
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
@@ -2196,6 +2196,157 @@
 - Def: Regarder aux dépenses, épargner sur quelque chose d'une façon mesquine (gratter)
 
 ## Semaine du 14/03
+
+### Indulgence
+- Def: Facilité à excuser, pardonner
+- Ex: Il n’était pas rancunier et faisait preuve d’une indulgence modèle.
+
+### Sensibilité
+- Def: Propriété d’une personne affective
+- Ex: Comme il fait preuve de sensibilité, il pleurait fréquemment pendant les films tristes.
+
+### Pressentiment
+- Def: Connaissance intuitive et vague d’un évènement qui ne peut être connu par le raisonnement
+- Ex: Sans voir les résultats de son test, elle avait le pressentiment d’avoir raté.
+
+### Racisme
+- Def: Discrimination, hostilité violente envers un groupe d’humains
+- Ex: Les inégalités entre individus de peau blanche et de peau noire sont encore existantes à cause du racisme.
+
+### Quiétude
+- Def: Calme paisible
+- Ex: Comme parler en bibliothèque était interdit, il régnait une quiétude inébranlable.
+
+### Réprobation
+- Def: Fait de réprouver, désapprobation vive
+- Ex: En sortant en douce la nuit, il savait que sa mère lui ferait part de sa réprobation par une punition.
+
+### Ressentiment
+- Def: Fait de se souvenir avec animosité des torts qu’on a subis
+- Ex:  Il ne pouvait s’empêcher de considérer son ami avec ressentiment depuis le jour où il tua son poisson rouge.
+
+### Merci
+1.
+	- Def: Remerciement
+	- Ex: Merci d’avoir repris mes cours lorsque j’étais malade.
+2.
+	- Def: Être dans un état où l’on dépend entièrement de qqn
+	- Ex:  Sans un sou, elle était à la merci de son compagnon abusif.
+
+### Sentiment
+1.
+	- Def: Connaissance comportant des éléments affectifs et intuitifs
+	- Ex:  Ses sentiments ont été rejetés le jour de la Saint Valentin.
+2.
+	- Def: Avis, opinion
+	- Ex:  J’ai le sentiment qu’elles n’aiment pas les gens bruyants.
+
+### Sérénité
+- Def: Etat, caractère d’une personne sereine. Qui fait preuve d’une paix intérieure
+- Ex:  Contrairement aux autres candidats anxieux, il faisait preuve d’un calme te d’une sérénité étonnante.
+
+### Inclination
+- Def: Mouvement qui porte à aimer qqn
+- Ex:  L’inclination de ce père pour cette famille l’aurait poussé à se sacrifier pour leur bien###être.
+
+### Idylle
+- Def: Aventure amoureuse naïve et tendre, Entente parfaite, osmose
+- Ex:  Loin des disputes de famille et autres soucis, ils vivaient une aventure idyllique semblable à un feuilleton de TV.
+
+### Grief
+- Def: Sujet de plainte, Reprocher qqchse
+- Ex:  Ses griefs à l’égard de son père était lié à l’abandon qu’il avait subi plus petit.
+
+### Gratitude
+- Def: Sentiment affectueux que l’on éprouve à l’égard de qqn dont on est reconnaissant
+- Ex:  Elle ressentait de la gratitude à l’égard de ses proches qui ne l’avaient pas abandonnée.
+
+### Frustration
+- Def: Etat d’une personne insatisfaite
+- Ex:  La frustration le rongeait après avoir reçu un échec pour un test important.
+
+### Félicité
+- Def: Bonheur calme et durable
+- Ex:  Loin de la ville et des problèmes, il éprouvait une félicité agréable.
+
+### Exaltation
+- Def: Fait de célébrer, Grande excitation de l’esprit
+- Ex:  Elle hurlait, en exaltation, après avoir gagné la médaille d’or.
+
+### Euphorie
+- Def: Sentiment de bien-être général
+- Ex:  Le meilleur sentiment après le marathon est l’euphorie qui soulage vos douleurs.
+
+### Election
+- Def: Choix, désignation d’une ou plusieurs personnes par un vote
+- Ex:  La Présidente avait été candidate à l’élection qu’elle avait remporté grâce à ses partisans.
+
+### Effusion
+- Def: Fait de répandre, Manifestation sincère d’un sentiment, Ecoulement abondant de sang
+- Ex:  D’habitude réservé, l’effusion de sa joie fut sans borne au retour de son frère.
+
+### Désintérêt
+- Def: État de l’esprit qui perd tout intérêt dans qqchse
+- Ex:  La passion qu’il avait eu vis-à-vis de ses jeux s’était transformé en désintérêt ; c’est pourquoi il s’en débarrassa.
+
+### Dérision
+- Def: Mépris qui incite à rire, à se moquer de qqn ou qqchse
+- Ex:  A cause de son costume coloré, les gens riaient de lui et le tournait en dérision.
+
+### Courroux
+- Def: Irritation véhémente contre un offenseur
+- Ex:  Le chevalier était sûr d’affronter le courroux royal après une telle faute.
+
+### Convoitise
+- Def: Désir extrême et sans scrupules d’obtenir qqchse
+- Ex:  Elle entretenait avec convoitise le désir de posséder la maison de son ami.
+
+### Compassion
+- Def: Sentiment qui porte à plaindre autrui et à partager ses souffrances
+- Ex:  En voyant ses gens souffrir, elle éprouvait une vive compassion à leur égard.
+
+### Commisération
+- Def: Sentiment de pitié qui fait prendre part à la misère d’autrui
+- Ex:  Il haïssait la commisération qu’il lisait dans les yeux des gens en le voyant dans la rue à cause de ses jambes en moins.
+
+### Aversion
+- Def: Porter en horreur qqchse, Vive répulsion
+- Ex:  Il ne pouvait pas supporter et portait une aversion sans limites aux tricheurs.
+
+### Austérité
+1.
+	- Def: Dépourvu de détail ou d’ornement.
+	- Ex:  Sans bijoux, l’austérité de sa tenue détonnait dans la fête.
+2.
+	- Def: Gestion stricte de l’économie d’un pays, limitant la consommation
+
+### Animosité
+- Def: Sentiment persistant de malveillance
+
+Attitude agressive
+- Ex:  Seule une animosité malveillante pouvait expliquer le crime qu’il avait commis.
+
+### Amertume
+
+- Def: Sentiment durable de tristesse mêlé de rancune lié à une humiliation
+- Ex:  L’amertume qu’il ressentait après cette trahison restait avec lui.
+
+### Allégresse
+
+- Def: Joie très vive qui se manifeste publiquement
+- Ex:  Elle n’aurait pas du manifester une telle allégresse en remportant le Loto : maintenant, elle est entourée de gens hypocrites.
+
+### Affliction
+
+- Def: Tristesse profonde, abattement à la suite d’un grave revers
+- Ex:  L’affliction qu’il éprouvait était due à une défaite en finale de son équipe préférée.
+
+### Affectivité
+1.
+	- Def: Ensemble des phénomènes de la vie faisant appel aux sentiments et à la sensibilité
+2.
+	- Def: Aptitude à être affecté de sensation de plaisir ou de douleur.
+	- Ex:  Comme il était privé d’affectivité, il ne pouvait ressentir le bonheur.
 
 ## Semaine du 21/03
 
