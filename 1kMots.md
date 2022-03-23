@@ -39,7 +39,7 @@
 20. [Semaine du 14/03](#Semaine-du-1403) : Affectivité -> Sérénité
     * :white_check_mark: par Diane
 21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
-    * :x: pour Apolline
+    * :white_check_mark: par Apolline
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
     * :x: pour Guccio
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
@@ -2349,6 +2349,96 @@ Attitude agressive
 	- Ex:  Comme il était privé d’affectivité, il ne pouvait ressentir le bonheur.
 
 ## Semaine du 21/03
+
+### Sollicitude
+- Def: Attitude affectueuse et attentive envers une personne
+
+### Spleen
+- Def: Mélancolie sans cause, accompagnée d’un dégoût de la réalité / humeur noire (sens étymologique)
+
+### Suspicion
+- Def: Sentiment de méfiance
+
+### Tolérance
+- Def: Comportement qui consiste à accepter des pratiques ou des opinions que l'on ne partage pas
+
+### Volupté
+- Def: Plaisir des sens et de l'esprit
+
+### Xénophobie
+- Def: Sentiment d'hostilité à l'égard des étrangers
+
+### Altruiste
+- Def: Être disposé à s'intéresser et à se dévouer à autrui
+
+### Bouffon
+- Def: Comique par son ridicule
+
+### Burlesque
+- Def: Qualifie une situation ou une œuvre qui fait rire par son extravagance
+
+### Dubitatif
+- Def: Qui exprime le doute, l'incertitude
+
+### Enclin
+- Def: Qui est porté à un comportement, comme un penchant naturel
+
+### Féru
+- Def: Qui est passionné par quelque chose
+
+### Furibond
+- Def: Qui est tellement furieux qu'il en est un peu comique
+
+### Galant
+- Def: Amoureux, romantique
+
+### Pathétique
+- Def: Qui émeut profondément, qui bouleverse, suscite la pitié
+
+### Prosaïque
+- Def: Qui manque de poésie, bien plat, bien commun
+
+### Scabreux
+- Def: Qui présente des risques/ qui choque la décence
+
+### Trivial
+- Def: Grossier, vulgaire
+
+### Abhorrer
+- Def: En avoir horreur, exécrer, haïr
+
+### Affecter
+- Def: Toucher, attrister
+
+### Appréhender
+- Def: Envisager un évènement avec anxiété, redouter, craindre
+
+### Déplorer
+- Def: Regretter vivement
+
+### S’emporter
+- Def: Se mettre en colère
+
+### Exécrer
+- Def: Ressentir la haine la plus vive
+
+### Jubiler
+- Def: Ressentir une joie très vive
+
+### Méduser
+- Def: Stupéfier, pétrifier
+
+### Offusquer
+- Def: Choquer, froisser ou causer des blessures d’amour-propre
+
+### Patir
+- Def: Eprouver des souffrances morales, subir les conséquences fâcheuses d’une action
+
+### Révérer
+- Def: Ressentir un respect et une l’admiration presque religieuse, vénérer
+
+### Sidérer
+- Def: Frapper de stupeur
 
 ## Semaine du 28/03
 
