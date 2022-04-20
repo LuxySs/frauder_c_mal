@@ -43,7 +43,7 @@
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
     * :x: pour Guccio
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
-    * :x: pour Astrid
+    * :white_check_mark: par Astrid
 24. [Semaine du 25/04](#Semaine-du-2504) : Acception -> Se référer
     * :x: pour Alyssa
 
@@ -2443,5 +2443,125 @@ Attitude agressive
 ## Semaine du 28/03
 
 ## Semaine du 18/04
+
+### Sacerdoce
+- Def: Fonction qui présente un caractère quasi religieux en raison du dévouement qu'elle exige.
+
+### Sagesse
+- Def: Modération et prudence dans la conduite.
+
+### Salut
+1.
+    - Def: Fait d'échapper à la mort, au danger, de garder ou de recouvrer un état heureux, prospère.
+2.
+    - Def: (religion) Félicité éternelle ; fait d'être sauvé du péché et de la damnation.
+    - Ex: Le salut de l’âme
+
+### Tabou
+- Def: Ce sur quoi on fait silence, par crainte ; pudeur.
+
+### Absurde
+- Def: Contraire à la raison, au bon sens, à la logique.
+
+### Athée
+- Def: Personne qui ne croit pas en Dieu
+- Ex: Il est athée
+
+### Dominical(e)
+- Def: Qui a rapport au dimanche.
+
+### Gratuit(e)
+1. 
+    - Def: Que l'on donne sans faire payer ; dont on profite sans payer.
+2.
+    - Def: Qui n'a pas de fondement, de preuve. 
+    - Syn: Arbitraire, Hasardeux
+
+### Immanent(e) 
+- Def: Qui est contenu dans la nature d'un être, ne provient pas d'un principe extérieur
+- Syn: inhérent
+
+### Impie
+- Def: Qui marque le mépris de la religion, des croyances religieuses.
+
+### Manichéen(ne)
+- Def: qui relève d’une manière de juger qui est sans nuance, dans laquelle le bien s’oppose au mal, sans stade intermédiaire entre ces deux pôles
+
+### Mystique
+- Def: Qui concerne les pratiques, les croyances visant à une union entre l'homme et la divinité.
+
+### Néophyte
+- Def: Personne qui a récemment adhéré à une doctrine, un parti, une association
+- Syn: Novice
+
+### Païen(ne)
+1.
+    - Def: Relatif à une religion polythéiste
+2.
+    - Def: Sans religion.
+
+### Pieux(se)
+- Déf: Animé ou inspiré par des sentiments de piété. 
+- Syn: Croyant, Religieux
+
+### Profane
+- Def: Qui est étranger à la religion
+
+### Prophétique
+- Def: Qui a le caractère d’une prophétie, d’une annonce sur l’avenir
+
+### Puritaine
+- Def: Personne qui montre une pureté morale scrupuleuse, un respect rigoureux des principes.
+- Syn: Prude, austère
+
+### Spirituel(le)
+- Def: Qui est de l'ordre de l'esprit, considéré comme distinct de la matière.
+
+### Véniel(le)
+- Def: faute digne de pardon, faute légère
+- Ex: Péché véniel
+
+### Abjurer
+- Def: Renoncer solennellement à sa religion, son opinion.
+
+### Absoudre
+- Def: Pardonner la faute de quelqu’un
+
+### Augurer
+- Def: Tirer d’un évènement une conséquence pour l’avenir
+- Syn: Présager, Deviner
+- Ex: De ce premier succès, j’augure la réussite de votre projet
+
+### Blasphémer
+- Def: Tenir des propos injurieux contre des personnes ou des choses respectables
+- Syn: injurier, profaner, insulter
+- Ex: Blasphémer contre la religion
+
+### Édifier
+1. 
+    - Def: Construire
+2. 
+    - Def: Porter (qqn) à la vertu, à la piété, par l'exemple ou par le discours.
+
+### Expier
+- Def: Réparer, en subissant une expiation
+- Ex: Expier ses torts, Expier ses péchés par la pénitence.
+
+### Idolâtrer
+- Def: Aimer avec passion en rendant une sorte de culte. 
+
+### Immoler
+- Def: Abandonner (qqch.) dans un esprit de sacrifice ou d'obéissance.
+- Ex: Immoler ses intérêts à son devoir.
+
+### Profaner
+- Def: Traiter sans respect (un objet, un lieu), en violant le caractère sacré
+
+### Se repentir
+- Def: Ressentir le regret (d'une faute), avec le désir de ne plus la commettre, de réparer. 
+
+### Vénérer 
+- Def: Avoir un grand respect, empreint d'affection pour (qqn, qqch.)
+- Ex: Vénérer un saint
 
 ## Semaine du 25/04
