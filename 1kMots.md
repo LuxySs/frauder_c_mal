@@ -41,7 +41,7 @@
 21. [Semaine du 21/03](#Semaine-du-2103) : Sollicitude -> Sidérer
     * :white_check_mark: par Apolline
 22. [Semaine du 28/03](#Semaine-du-2803) : Âme -> Rite
-    * :x: pour Guccio
+    * :white_check_mark: par Guccio
 23. [Semaine du 18/04](#Semaine-du-1804) : Sacerdoce -> Vénérer
     * :white_check_mark: par Astrid
 24. [Semaine du 25/04](#Semaine-du-2504) : Acception -> Se référer
@@ -2441,6 +2441,170 @@ Attitude agressive
 - Def: Frapper de stupeur
 
 ## Semaine du 28/03
+
+### Âme
+- Def: Principe de vie, de mouvement et de pensée de l'homme, différent de l'esprit, conçu comme activité intellectuelle et fréquemment opposé au corps
+- Syn: souffle vital
+
+### Apôtre
+- Def: Personne qui se met au service d'une cause, d'une idée, d'une doctrine.
+
+### Ascète
+1.
+    - Def: Qui menaient une vie de prière.
+2. 
+    - Def: Personne qui s'impose une vie rude et austère.
+
+### Bible
+- Def: Ensemble des textes sacrés pour les religions juive et chrétienne.
+
+### Culte
+1.
+    - Def: Ensemble des cérémonies par lesquelles on rend hommage.
+2. 
+    - Def: Vénération, adoration pour quelqu'un, quelque chose.
+    - Syn: révérence
+
+### Damnation
+- Def: Pour les chrétiens, exclusion définitive du salut éternel et condamnation à l'enfer.
+
+### Déterminisme
+- Def: Théorie philosophique selon laquelle les phénomènes naturels et les faits humains sont causés par leurs antécédents.
+- Contraire: indéterminisme - liberté
+
+### Doctrine
+- Def: Ensemble de croyances ou de principes traduisant une conception de l'univers, de la société, etc., constituant un système d'enseignement religieux, philosophique, politique
+
+### Dogme
+- Def: Point fondamental et considéré comme incontestable d'une doctrine religieuse ou philosophique
+- Syn: précepte - règle
+
+### Éden
+1.
+    - Def: Lieu où la Bible situe le paradis terrestre (avec une majuscule).
+2.
+    - Def: Lieu de délices, séjour plein de charmes, état de bonheur parfait.
+    - Syn: oasis - paradis
+
+### Entité
+- Def: Chose considérée comme un être ayant son individualité
+- Ex: La société, l'État sont des entités.
+
+### Fanatisme
+- Def: Dévouement absolu et exclusif à une cause qui pousse à l'intolérance religieuse ou politique et conduit à des actes de violence.
+- Syn: intolérance - sectarisme
+
+### Ferveur
+- Def: Ardeur passionnée, élan enthousiaste
+- Ex: Écouter avec ferveur un être que l'on aime.
+- Syn: chaleur - effusion - enthousiasme - exaltation – zèle
+
+### Fétichisme
+- Def: Respect scrupuleux, admiration sans réserve pour quelque chose, quelqu'un.
+
+### Foi
+- Def: Adhésion totale de l'homme à un idéal qui le dépasse, à une croyance religieuse.
+- Syn: mysticisme
+- Contraire: athéisme - incrédulité - incroyance – scepticisme
+
+### Fortune
+1.
+    - Def: Puissance mystérieuse qui est censée fixer aux êtres humains leur sort
+    - Ex: La fortune sourit aux audacieux.
+    - Syn: karma - destin - hasard - sort
+2. 
+    - Def: Ensemble des biens, des richesses que possède quelqu'un ou une collectivité
+    - Ex: N'avoir aucune fortune personnelle. La fortune nationale.
+    - Syn: argent - avoir - biens - ressources
+    - Contraires : dénuement - gêne - indigence - misère - pauvreté
+
+### Genèse
+- Def: Origine et développement des êtres
+
+### Hérésie
+- Def: Idée, opinion, pratique qui s'oppose aux dogmes, idées, aux opinions généralement admises
+- Syn: hétérodoxie - schisme, déviation - sacrilège
+- Contraire: orthodoxie - conformisme - rite - tradition
+
+### Holocauste
+- Def: Sacrifice sanglant exécuté dans un but religieux.
+
+### Iconoclaste
+- Def: Qui est ennemi de toute tradition, qui cherche à faire disparaître tout ce qui est le passé.
+- Syn: Vandale
+- Contraire: iconolâtre
+
+### Idée
+1.
+    - Def: Tout contenu de pensée, toute élaboration de l'esprit
+    - Ex: Mettre de l'ordre dans ses idées.
+    - Syn: intention - plan - projet
+2. 
+    - Def: Manière personnelle de voir les choses : 
+    - Ex: Nous n'avons pas la même idée de ce qu'est la liberté.
+    - Syn: avis - conception - connaissance - notion - opinion - sentiment - vue
+
+### Idéologie
+- Def: Système spéculatif vague et nébuleux.
+- Syn: rêve - utopie
+
+### Initiation
+- Def: Action de donner les premiers rudiments d'une discipline.
+
+### Intégrisme
+- Def: Attitude et disposition d'esprit de certains croyants qui, au nom du respect intransigeant de la tradition, se refusent à toute évolution.
+
+### Liturgie
+- Def: Ensemble du culte public (rites, prières, chants) rendu à Dieu par l'Église, tel qu'il est déterminé ou reconnu par l'autorité compétente.
+
+### Magie
+1.
+    - Def: Ensemble de croyances et de pratiques reposant sur l'idée qu'il existe des puissances cachées dans la nature, qu'il s'agit de se concilier ou de conjurer, pour s'attirer un bien ou susciter un malheur, visant ainsi à une efficacité matérielle.
+    - Syn: nécromancie - sorcellerie - théurgie
+2. 
+    - Def: Puissance de séduction, d'illusion, charme séducteur
+    - Ex: La magie de la musique.
+    - Syn: charme - enchantement - envoûtement - fascination - sortilège
+
+### Méditation
+- Def: Action de réfléchir, de penser profondément à un sujet, à la réalisation de quelque chose
+- Ex: Cet ouvrage est le fruit de ses méditations.
+- Syn: approfondissement - étude - pensée - recherche - réflexion - spéculation
+
+### Métaphysique
+- Def: Science de l'être en tant qu'être, recherche et étude des premiers principes et des causes premières, connaissance rationnelle des réalités transcendantes et des choses en elles-mêmes.
+
+### Oracle
+1.
+    - Def: Réponse d'une divinité au fidèle qui la consultait; la divinité qui rendait cette réponse
+    - Syn: divination - vaticination
+2. 
+    - Def: Décision jugée infaillible et émanant d'une personne de grande autorité
+    - Ex: Il rendait des oracles.
+    - Syn: prédiction - prophétie
+
+### Parabole
+- Def: Genre littéraire consistant en une comparaison développée dans un récit conventionnel dont les éléments sont empruntés à la vie quotidienne et permettant de concrétiser un aspect de la doctrine.
+
+### Pardon
+- Def: Fait de ne pas tenir rigueur d'une faute; rémission d'une offense
+- Ex: Accorder son pardon.
+- Syn: absolution - excuse - miséricorde - rémission
+- Contraire: rancune - ressentiment - vengeance
+
+### Philosophie
+- Def: Ensemble de conceptions portant sur les principes des êtres et des choses, sur le rôle de l'homme dans l'univers, sur Dieu, sur l'histoire et, de façon générale, sur tous les grands problèmes de la métaphysique.
+
+### Prosélytisme
+- Def: Dévouement ardent à recruter des adeptes, pour tenter d'imposer ses idées.
+
+### Relique
+- Def: Objet témoin du passé auquel on attache le plus grand prix : Ces lettres sont les reliques de nos amours d'antan.
+
+### Rite
+- Def: Manière d'agir propre à un groupe social ou à quelqu'un, qui obéit à une règle, revêt un caractère invariable
+- Ex: Ses journées se déroulaient selon un rite immuable.
+- Syn: coutume - pratique - protocole - tradition - usage
 
 ## Semaine du 18/04
 
