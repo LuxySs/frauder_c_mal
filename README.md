@@ -43,3 +43,6 @@ La liste se trouve dans le fichier [1kMots.md](1kMots.md)
 - Nilüfer
 - Louise
 - Diane
+- Apolline
+- Astrid
+- Guccio
