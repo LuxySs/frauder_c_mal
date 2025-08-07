@@ -1,4 +1,4 @@
-# Bienvenue sur le répositoire frauder_c_mal! 
+# Bienvenue sur le dépot frauder_c_mal! 
  
 Il s'agit d'une liste commune reprenant toutes les définitions des mots devant être connus pour les tests hebdomadaires des 1000 mots.
 La liste se trouve dans le fichier [1kMots.md](1kMots.md)
